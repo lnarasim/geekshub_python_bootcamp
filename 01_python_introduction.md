@@ -1,8 +1,8 @@
 <!-- $theme: default -->
 
 # Introduction to Python
-[GeeksHub](www.geekshub.in)
-[info@geekshub.in](info@geekshub.in)
+[GeeksHub](http://www.geekshub.in)
+[info@geekshub.in](mailto:info@geekshub.in)
 
 ---
 
