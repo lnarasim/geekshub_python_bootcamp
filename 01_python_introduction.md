@@ -1,12 +1,13 @@
-<!-- $theme: default -->
-<!-- footer: © 2019 - GeeksHub -->
+name: inverse
+layout: true
+class: center, middle, inverse
 
-background-image: url(image.jpg)
+---
 
 # Introduction to Python
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
-
+.footnote[Visit us [GeeksHub](https://www.geekshub.in)]
 ---
 
 # Agenda
