@@ -1,10 +1,11 @@
 <!-- $theme: default -->
 <!-- footer: © 2019 - GeeksHub -->
 
+background-image: url(image.jpg)
 
 # Introduction to Python
-[GeeksHub](http://www.geekshub.in)
-[info@geekshub.in](mailto:info@geekshub.in)
+## [GeeksHub](http://www.geekshub.in)
+### [info@geekshub.in](mailto:info@geekshub.in)
 
 ---
 
