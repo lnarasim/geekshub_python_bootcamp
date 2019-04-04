@@ -1,4 +1,6 @@
 <!-- $theme: default -->
+<!-- footer: © 2019 - GeeksHub -->
+
 
 # Introduction to Python
 [GeeksHub](http://www.geekshub.in)
@@ -84,11 +86,12 @@
 
 ---
 
-# Simple Input
+# Simple Output
 
 ---
 
-# Simple Output
+
+# Simple Input
 
 ---
 
