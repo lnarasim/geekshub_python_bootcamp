@@ -4,6 +4,7 @@ This page is a placeholder for GeeksHub Python bootcamp slides, reading material
 
 ## Topics
 1. Python Introduction [[slides](01_python_introduction.html)]
+20. Classes [[slides](20_classes.html)]
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
