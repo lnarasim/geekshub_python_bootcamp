@@ -3,7 +3,7 @@
 This page is a placeholder for GeeksHub Python bootcamp slides, reading materials and example code. The participants of the bootcamps will only be allowed to make changes to the material/source code. If you have any feedback/suggestion, feel free to talk to us.
 
 ## Topics
-1. Python Introduction [[slides](url)]
+1. Python Introduction [[slides](01_python_introduction.html)]
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
