@@ -7,8 +7,11 @@ class: center, middle, inverse
 # Introduction to Python
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
-.footnote[Visit us [GeeksHub](https://www.geekshub.in)]
+
 ---
+
+name: inverse
+layout: false
 
 # Agenda
 - Introduction
@@ -22,7 +25,6 @@ class: center, middle, inverse
 - Writing Comments
 - References and Garbage Collection
 	
-
 ---
 
 # What is Python?
@@ -119,13 +121,18 @@ class: center, middle, inverse
     
 ---
 
-* PEP8 - Code Style Guide
-    * Packages - short, all lowercase, no underscores
-    * Modules - short, all lowercase, underscores are allowed
-    * Classes - CamelCase
-    * Functions - snake_case
-    * Variables - snake_case
-    * Constants - IP_ADDRESS, PORT_NUMBER, CUSTOMER_ID
+# PEP8 - Code Style Guide
+* Packages - short, all lowercase, no underscores
+   * ```fractions, decimal, math```
+* Modules - short, all lowercase, underscores are allowed
+* Classes - CamelCase
+   * ```BankAccount, EmployeeDetails```
+* Functions - snake_case
+   * ```deposit(), get_employee_details(), write_to_db()```
+* Variables - snake_case
+   * ```temperature_far, temperature_cel```
+* Constants - ALL CAPS
+   * ```IP_ADDRESS, PORT_NUMBER, CUSTOMER_ID```
     
 ---
 
