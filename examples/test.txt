@@ -1,0 +1,7 @@
+This is a test file
+Contains some text
+As you see, you have many lines.
+And if you think, it is a poem,
+BoomThis is a text i just added
+This is a text i just added
+This is a text i just added
