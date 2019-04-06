@@ -9,8 +9,9 @@ Over a period of time, we plan to add programming problems, design problems that
 The participants of the bootcamps are encouraged to use this website/page, challenge in the bootcamps for an efficient solution. Discussion with friends or fellow developers are absolutely fine.
 
 ## Topics
-1. Python Introduction [[slides](01_python_introduction.html)]
-2. File I/O [[slides](fileio.html)]
-20. Classes [[slides](20_classes.html)]
+* Python Introduction [[slides](01_python_introduction.html)]
+* Datatypes [[slides](datatypes.html)]
+* File I/O [[slides](fileio.html)]
+* Classes [[slides](20_classes.html)]
 
 [GeeksHub](https://www.geekshub.in)
