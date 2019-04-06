@@ -231,3 +231,63 @@ layout: false
     BankAccount.display = display
     account.display()
     ```
+
+---
+
+# Exercises
+
+1. Create a class "BankAccount" with attributes - account number, name and balance. Add few methods such as deposit and withdraw.
+
+2. Create two objects for BankAccount, for two customers
+
+3. Create a class attribute "number of accounts" to track number of accounts created
+
+4. Create a class method to display "number of accounts"
+
+5. List all the attributes/methods in the class
+
+6. List all the attributes/methods in an object
+
+7. Add an attribute to a class (in runtime)
+
+8. Add an attribute to one of the objects (after the object is created)
+
+9. Get the attributes value from the object that is used in previous example
+
+10. Try to get attributes value from different object
+
+---
+
+# Exercises (Cntd)
+
+11. Access the class attribute using object reference
+
+12. Access the class attribute using class reference
+
+13. How attributes/methods get resolved for object?
+
+14. How attributes/methods get resolved for a class?
+
+15. How to delete an attribute from class or object?
+
+16. What is the first argument of object methods?
+
+17. What is the first argument of class methods?
+
+18. Any class is subclass of "object" - Is True or False?
+
+19. Implement \_\_del\_\_ and observe what happens
+
+20. When \_\_del\_\_ is called?
+
+---
+
+# Exercises (Cntd)
+
+21. For BankAccount class, implement the following
+    * ==
+    * !=
+    * \>=
+    * <=
+    * \>
+    * \<
