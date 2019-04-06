@@ -142,6 +142,8 @@ finally:
     print(divide(1, 1))
     print(divide(1, 0))
     ```
+---
+
 # Special Case - while/for loops with break
 * finally is always executed
 * Even when control goes out of try block (break, continue or return)
