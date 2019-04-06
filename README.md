@@ -21,6 +21,7 @@ The participants of the bootcamps are encouraged to use this website/page, chall
 * Python Introduction [[slides](01_python_introduction.html)]
 * Datatypes [[slides](datatypes.html)]
 * File I/O [[slides](fileio.html)]
+* Exceptions [[slides](exceptions.html)]
 * Classes [[slides](20_classes.html)]
 
 [GeeksHub](https://www.geekshub.in)
