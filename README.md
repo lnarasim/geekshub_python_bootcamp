@@ -1,6 +1,11 @@
 # GeeksHub Python Bootcamp
+## Co-Creating Tomorrow
 
-This page is a placeholder for GeeksHub Python bootcamp slides, reading materials and example code. The participants of the bootcamps will only be allowed to make changes to the material/source code through pull requests which will be reviewed by GeeksHub champions. If you have any feedback/suggestion, feel free to talk to us. The course contents and code examples are continously evolving, so our suggestion is to view online whenever you require.
+A space to reinvent ourselves. A group of passionate software guys congregate to transform their own future, every weekend. It is a Hub for Geeks - software craftsmen of tomorrow. Right from the first principle, interconnecting the dots, producing something at higher abstraction - either self or technology.
+
+While our goal is to transform ourselves, the by-products are finding a job to do what you would love to do. The journey is simple but involved, fixed number of steps with each step getting increasingly complex and rewards as we break the complexity.
+
+This page is just to make your life look easy. Your life changes if you read these slides, examples and puzzles. You __transform__ if you do what is __said__
 
 Almost all slides will have code examples unless it is purely concepts. The examples can be downloaded by clicking "examples" in the title slide of each topic or you can view these examples in examples directory in repository.
 
@@ -9,7 +14,8 @@ Almost all slides will have code examples unless it is purely concepts. The exam
 3. [Tools Projects](tools_projects.md) - Develop a tool and this can span for a period of 2-3 weeks
 4. Projects - Span across months and often done with fellow GeeksHub Champions
 
-Topics, Examples, Quizzes, Tools Projects and Projects will grow over a period of time.
+Modes: Topics, Examples, Quizzes, Tools Projects and Projects will grow over a period of time.
+Technology: Python, Linux, Virtualization, Containers, CI/CD, TDD and the likes
 
 ### GeeksHub's Geeks
 The participants of the bootcamps are encouraged to use this website/page, challenge in the bootcamps for an efficient solution.
