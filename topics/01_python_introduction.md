@@ -79,23 +79,30 @@ layout: false
 - Windows, Linux (different flavors), MacOS
   - Available on most platforms
   - We will deal with CPython
-- PyCharm, Atom, Visual Studio Code
-  - Visual Studio Code is pretty decent
-  - Atom or Sublime is equally good
-  - PyCharm is an IDE (there is a free version too)
 - Python Shell, IDLE
   - Use this if you want to try something quickly
   - Ok to use during initial days of learning Python
   - But soon move to standard editors
+- PyCharm, Atom, Visual Studio Code
+  - Visual Studio Code is pretty decent
+  - Atom or Sublime is equally good
+  - PyCharm is an IDE (there is a free version too)
+- Setting up Jupyter
+  - Install Jupyter
+  - Install Jupyter themes
 
 ---
 
 # Simple Output
+- "print"
+- Formatted print (string.format)
+- f-strings
 
 ---
 
-
 # Simple Input
+- "input"
+- command-line args (import sys, sys.argv)
 
 ---
 

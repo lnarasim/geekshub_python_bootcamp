@@ -4,13 +4,10 @@ This page is a placeholder for GeeksHub Python bootcamp slides, reading material
 
 Almost all slides will have code examples unless it is purely concepts. The examples can be downloaded by clicking "examples" in the title slide of each topic or you can view these examples in examples directory in repository.
 
-Each topic will have
-1. Bullets - This is no replacement to our live sessions. But this helps participants to recollect the concepts
-2. Examples - These are examples that we used to make things easy to understand
-3. Exercises - These are exercises discussed in bootcamps. The partcipants are expected to do this in their free time (somehow do it)
-4. Programming Puzzles - These are puzzles that should be solved using few concepts in Python
-5. Tools Projects - Develop a tool and this can span for a period of 2-3 weeks
-6. Projects - Span across months and often done with fellow GeeksHub Champions
+1. Topics - This is no replacement to our live sessions. But this helps participants to recollect the concepts. There are examples, questions/quizzes and simple programs to solve. You should do all these without fail.
+2. Programming Puzzles - These are puzzles that should be solved using few concepts in Python
+3. Tools Projects - Develop a tool and this can span for a period of 2-3 weeks
+4. Projects - Span across months and often done with fellow GeeksHub Champions
 
 Over a period of time, we plan to add programming problems, design problems that are solved in bootcamps, try-it-yourself like open ended problems. You are free to use for your own personal use. For any commercial use, talk to us. We will be glad to help for a fee.
 
