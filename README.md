@@ -15,9 +15,9 @@ Almost all slides will have code examples unless it is purely concepts. The exam
 4. Projects - Span across months and often done with fellow GeeksHub Champions
 
 #### Modes:
-##### __Topics, Examples, Quizzes, Tools Projects and Projects will grow over a period of time__
-### Technology: 
-##### __Python, Linux, Virtualization, Containers, Microservices, CI/CD, TDD and the likes__
+__Topics, Examples, Quizzes, Tools Projects and Projects will grow over a period of time__
+#### Technology: 
+__Python, Linux, Virtualization, Containers, Microservices, CI/CD, TDD and the likes__
 
 ### GeeksHub's Geeks
 The participants of the bootcamps are encouraged to use this website/page, challenge in the bootcamps for an efficient solution.
