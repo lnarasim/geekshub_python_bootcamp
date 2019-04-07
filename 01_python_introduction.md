@@ -193,3 +193,16 @@ layout: false
 ---
 
 # 
+
+---
+
+layout: true
+class: center, middle, inverse
+
+---
+
+# Thank you :-)
+
+# [GeeksHub](http://www.geekshub.in)
+_**Co-Creating Tomorrow **_
+### [info@geekshub.in](mailto:info@geekshub.in)

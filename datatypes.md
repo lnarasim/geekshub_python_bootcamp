@@ -110,3 +110,16 @@ layout: false
     - Inplace modification is not allowed
     - Internal state of the object cannot be changed
     - Warning: Immutable objects that has mutable composition still have side effects
+
+---
+
+layout: true
+class: center, middle, inverse
+
+---
+
+# Thank you :-)
+
+# [GeeksHub](http://www.geekshub.in)
+_**Co-Creating Tomorrow **_
+### [info@geekshub.in](mailto:info@geekshub.in)
