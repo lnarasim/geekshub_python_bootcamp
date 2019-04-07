@@ -5,8 +5,8 @@ This page is a placeholder for GeeksHub Python bootcamp slides, reading material
 Almost all slides will have code examples unless it is purely concepts. The examples can be downloaded by clicking "examples" in the title slide of each topic or you can view these examples in examples directory in repository.
 
 1. [Topics](topics/topics.md) - This is no replacement to our live sessions. But this helps participants to recollect the concepts. There are examples, questions/quizzes and simple programs to solve. You should do all these without fail.
-2. Programming Puzzles - These are puzzles that should be solved using few concepts in Python
-3. Tools Projects - Develop a tool and this can span for a period of 2-3 weeks
+2. [Programming Puzzles](programming_puzzles.md) - These are puzzles that should be solved using few concepts in Python
+3. [Tools Projects](tools_projects.md) - Develop a tool and this can span for a period of 2-3 weeks
 4. Projects - Span across months and often done with fellow GeeksHub Champions
 
 Topics, Examples, Quizzes, Tools Projects and Projects will grow over a period of time.
