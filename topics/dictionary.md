@@ -110,7 +110,9 @@ below
 
 """
 ```
+
 ---
+
 # Dictionary With Examples (Cntd)
 * Let us create a dictionary - Method #1
 * It is as simple as the following
@@ -143,6 +145,10 @@ del detail['id']
 print(detail)
 ```
 
+---
+
+# Dictionary With Examples (Cntd)
+
 * Let us create a dictionary - Method #2
 ```python
 another_dictionary = {}
@@ -166,6 +172,10 @@ kw_dict = dict(name='Balaji', age=25, id='100')
 print(kw_dict)
 ```
 
+---
+
+# Dictionary With Examples (Cntd)
+
 * Let us iterate over all the keys and print them one by one
 ```python
 print("The keys in the dictionary are:")
@@ -188,6 +198,11 @@ for key, value in kw_dict.items():
 
 print()
 ```
+
+---
+
+# Dictionary With Examples (Cntd)
+
 * Let us access a key that does not exist
 ```python
 print(f"{kw_dict['does_not_exist']}")
@@ -238,6 +253,10 @@ print(value)
 print(kw_dict)
 ```
 
+---
+
+# Dictionary - Operations (Cntd)
+
 * Pop a key that does not exist, but let us pass a default value
 ```python
 value = kw_dict.pop('does_not_exist', None)
@@ -259,6 +278,10 @@ print(kw_dict)
 
 kw_dict.update(tuple_dict)
 ```
+
+---
+
+# Dictionary - Operations (Cntd)
 
 * Dictionary - Copy and Clear
 ```python
@@ -287,6 +310,7 @@ print(kw_dict)
 ---
 
 # Exercises
+
 1. Define a dictionary for storing contacts lists. Typically, you need to implement to store your friends' list with following details.
     - name as key, value as phone number
     - print the dictionary
@@ -299,6 +323,10 @@ print(kw_dict)
     - print all the keys
     - print all the values
     - print key - value pairs
+
+--- 
+
+# Exercises (Cntd)
 
 5. Using dictionary's get method, retrieve the following.
     - value of the key that exists
@@ -314,6 +342,10 @@ print(kw_dict)
 
 9. Write the code to delete/remove a key using del
 
+--- 
+
+# Exercises (Cntd)
+
 10. Write the code to delete/remove a key using dictionary's pop method.
 
 11. What is the difference between deleting keys using del versus pop method?
@@ -325,6 +357,10 @@ print(kw_dict)
 14. Loop through the dictionary and print all the values
 
 15. Loop through the dictionary and print all the keys and corresponding values as key - value pairs with each pair printed in a newline
+
+--- 
+
+# Exercises (Cntd)
 
 16. What is the type of dictionary? Find it programmatically.
 
