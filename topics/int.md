@@ -3,8 +3,8 @@ class: center, middle, inverse
 
 ---
 
-# Int, Float and Bool
-with [examples](examples/int_float_bool.ipynb)
+# Datatype - int
+with [examples](examples/int.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 
