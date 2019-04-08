@@ -7,6 +7,8 @@ This page has list of materials used in Full Stack developer and Backend develop
 * Int, Float and Bool [[slides](int_float_bool.html)]
 * String [[slides](string.html)]
 * List [[slides](list.html)]
+* List [[slides](tuple.html)]
+* List [[slides](dictionary.html)]
 * File I/O [[slides](fileio.html)]
 * Exceptions [[slides](exceptions.html)]
 * Classes [[slides](20_classes.html)]
