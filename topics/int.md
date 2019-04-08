@@ -56,8 +56,8 @@ layout: false
 * Subtraction
 * Multiplication
 * Division
-* Floor Division
-* Modulo
+* Floor Division [(a = b * a // b) + a % b]
+* Modulo [(a = b * a // b) + a % b]
 * Exponent (or raised to the power)
 
 ---
@@ -66,6 +66,7 @@ layout: false
 * math.floor()
 * Floor division vs math.trunc vs math.floor
 * divmod
+* bin, oct and hex
 
 ---
 
