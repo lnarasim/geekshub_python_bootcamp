@@ -13,6 +13,14 @@ with [examples](examples/int_float_bool.ipynb)
 name: inverse
 layout: false
 
+# Numbers
+* Integers
+* Rational numbers
+* Real numbers
+* Complex numbers
+
+---
+
 # Integral types
 * int
 * float
@@ -20,6 +28,58 @@ layout: false
 * fractions
 * decimal
 * complex
+
+---
+
+# Integer - General discussion
+* Whole numbers (postive and negative)
+   - signed
+   - unsigned
+* How numbers are stored
+   - 8 bit notation
+
+---
+
+# Integers in Python
+* Unlimited in size
+* Can be as big as the size of the memory we have
+* Variable number of bits
+* Seamless to us
+* Integer is an object
+* It has overhead
+* Large number use more memory
+* Immutable
+
+---
+# Integer airthmetic operations
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Floor Division
+* Modulo
+* Exponent (or raised to the power)
+
+---
+# Some Math functions
+* math.trunc()
+* math.floor()
+* Floor division vs math.trunc vs math.floor
+* divmod
+
+---
+
+# Integer Instantiation
+* a = 10
+* a = int(10)
+* a = int('10')
+* a = int(10.1)
+* a = int('a', 16) # a base of 16
+   * Base can be 2 to 36
+* a = int(True)
+* a = int(False)
+
+---
 
 # Basic Data Types [int, float, string] - refresher
 
@@ -112,3 +172,14 @@ layout: false
 
 19. Write a program to generate a random number between 1 and 100
 
+---
+layout: true
+class: center, middle, inverse
+
+# Thank you :-)
+
+# [GeeksHub](http://www.geekshub.in)
+_**Co-Creating Tomorrow **_
+### [info@geekshub.in](mailto:info@geekshub.in)
+
+---
