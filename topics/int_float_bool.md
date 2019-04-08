@@ -13,6 +13,14 @@ with [examples](examples/int_float_bool.ipynb)
 name: inverse
 layout: false
 
+# Integral types
+* int
+* float
+* bool
+* fractions
+* decimal
+* complex
+
 # Basic Data Types [int, float, string] - refresher
 
 - int, float, boolean, string
