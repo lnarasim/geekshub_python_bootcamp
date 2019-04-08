@@ -96,6 +96,11 @@ else:
 
 print()
 ```
+
+---
+
+# Something to share
+
 ```python
 """ 
 You do not create a dictionary for being empty. You want to store values, 
@@ -110,7 +115,6 @@ below
 
 """
 ```
-
 ---
 
 # Dictionary With Examples (Cntd)
@@ -150,23 +154,26 @@ print(detail)
 # Dictionary With Examples (Cntd)
 
 * Let us create a dictionary - Method #2
-```python
-another_dictionary = {}
-another_dictionary['name'] = 'Lakshmi'
-another_dictionary['age'] = 18
-another_dictionary['id'] = '001'
 
-print(another_dictionary)
+```python
+    another_dictionary = {}
+    another_dictionary['name'] = 'Lakshmi'
+    another_dictionary['age'] = 18
+    another_dictionary['id'] = '001'
+
+    print(another_dictionary)
 
 ```
 
 * Let us create a dictionary - Method #3, by passing a list of tuples/sequences
+
 ```python
 tuple_dict = dict([('name', 'Narayanan'), ('age', 20), ('id', '002')])
 print(tuple_dict)
 ```
 
 * Let us create a dictionary - Method #4, by passing a keyword arguments
+
 ```python
 kw_dict = dict(name='Balaji', age=25, id='100')
 print(kw_dict)
@@ -177,6 +184,7 @@ print(kw_dict)
 # Dictionary With Examples (Cntd)
 
 * Let us iterate over all the keys and print them one by one
+
 ```python
 print("The keys in the dictionary are:")
 for key in kw_dict.keys():
@@ -204,25 +212,29 @@ print()
 # Dictionary With Examples (Cntd)
 
 * Let us access a key that does not exist
-```python
-print(f"{kw_dict['does_not_exist']}")
-```
+
+    ```python
+    print(f"{kw_dict['does_not_exist']}")
+    ```
 
 * Let us access a key that does not exist but still get away without any error
-* To run this statement, you have comment the previous statement
-```python
-print(f"Value of {'name'} is {kw_dict.get('name')}")
-```
+
+    ```python
+    print(f"Value of {'name'} is {kw_dict.get('name')}")
+    ```
 
 * Let us access a key that does not exist
-```python
-print(f"Value of {'does_not_exist'} is {kw_dict.get('does_not_exist')}")
-```
+
+    ```python
+    print(f"Value of {'does_not_exist'} is {kw_dict.get('does_not_exist')}")
+    ```
 
 * Let us access a key that does not exist, but passing a string
-```python
-print(f"Value of {'does_not_exist'} is {kw_dict.get('does_not_exist', 'No Value')}")
-```
+
+    ```python
+    print(f"Value of {'does_not_exist'} is {kw_dict.get('does_not_exist',
+                    'No Value')}")
+    ```
 
 ---
 # Dictionary - Operations
@@ -246,67 +258,76 @@ print(value)
 print(kw_dict)
 ```
 
+---
+
+# Dictionary - Operations (Cntd)
+
 * Pop a key that does not exist
-```python
-value = kw_dict.pop('does_not_exist')
-print(value)
-print(kw_dict)
-```
+
+    ```python
+    value = kw_dict.pop('does_not_exist')
+    print(value)
+    print(kw_dict)
+    ```
+
+* Pop a key that does not exist, but let us pass a default value
+
+    ```python
+    value = kw_dict.pop('does_not_exist', None)
+    print(value)
+    print(kw_dict)
+    ```
+
+* Let us load the dictionary again
+
+    ```python
+    kw_dict.update(tuple_dict)
+    print(kw_dict)
+    ```
 
 ---
 
 # Dictionary - Operations (Cntd)
 
-* Pop a key that does not exist, but let us pass a default value
-```python
-value = kw_dict.pop('does_not_exist', None)
-print(value)
-print(kw_dict)
-```
-
-* Let us load the dictionary again
-```python
-kw_dict.update(tuple_dict)
-print(kw_dict)
-```
-
 * Let us understand popitem.
-```python
-value = kw_dict.popitem()
-print(value)
-print(kw_dict)
 
-kw_dict.update(tuple_dict)
-```
+    ```python
+    value = kw_dict.popitem()
+    print(value)
+    print(kw_dict)
+
+    kw_dict.update(tuple_dict)
+    ```
 
 ---
 
 # Dictionary - Operations (Cntd)
 
 * Dictionary - Copy and Clear
-```python
-new_dict = kw_dict.copy()
-print(new_dict)
-print(kw_dict)
-print(new_dict is kw_dict)
 
-new_dict['name'] = "new name"
-print(new_dict)
-print(kw_dict)
+    ```python
+    new_dict = kw_dict.copy()
+    print(new_dict)
+    print(kw_dict)
+    print(new_dict is kw_dict)
 
-kw_dict.clear() # what does this do?
-print(kw_dict)
-kw_dict.update(tuple_dict)
+    new_dict['name'] = "new name"
+    print(new_dict)
+    print(kw_dict)
 
-new_dict = kw_dict
-print(new_dict)
-print(kw_dict)
-print(new_dict is kw_dict)
+    kw_dict.clear() # what does this do?
+    print(kw_dict)
+    kw_dict.update(tuple_dict)
 
-new_dict['name'] = "new name"
-print(new_dict)
-print(kw_dict)
-```
+    new_dict = kw_dict
+    print(new_dict)
+    print(kw_dict)
+    print(new_dict is kw_dict)
+
+    new_dict['name'] = "new name"
+    print(new_dict)
+    print(kw_dict)
+    ```
 ---
 
 # Exercises
@@ -324,7 +345,7 @@ print(kw_dict)
     - print all the values
     - print key - value pairs
 
---- 
+---
 
 # Exercises (Cntd)
 
@@ -342,7 +363,7 @@ print(kw_dict)
 
 9. Write the code to delete/remove a key using del
 
---- 
+---
 
 # Exercises (Cntd)
 
@@ -358,13 +379,14 @@ print(kw_dict)
 
 15. Loop through the dictionary and print all the keys and corresponding values as key - value pairs with each pair printed in a newline
 
---- 
+---
 
 # Exercises (Cntd)
 
 16. What is the type of dictionary? Find it programmatically.
 
 ---
+
 layout: true
 class: center, middle, inverse
 
