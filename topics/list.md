@@ -180,3 +180,15 @@ layout: false
 # Exercises (Cntd)
 
 23. Given a list, how will you clear all the elements of the list. For example, numbers = [1,3,3,4,6,6] should be converted to numbers = [] without creating a new instance of an empty list (id(numbers) before and after the transformation should be same)
+
+---
+layout: true
+class: center, middle, inverse
+
+# Thank you :-)
+
+# [GeeksHub](http://www.geekshub.in)
+_**Co-Creating Tomorrow **_
+### [info@geekshub.in](mailto:info@geekshub.in)
+
+---
