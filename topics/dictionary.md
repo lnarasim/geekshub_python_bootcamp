@@ -71,16 +71,23 @@ layout: false
 
 # Dictionary With Examples
 
+* Create a dictionary that is empty
+
 ```python
-# Create a dictionary that is empty
 detail = {}
 print(detail)
+```
 
-# Another way of creating a dictionary that is empty.
+* Another way of creating a dictionary that is empty.
+
+```python
 detail = dict()
 print(detail)
+```
 
-# What does an empty dictionary evaluates to?
+* What does an empty dictionary evaluates to?
+
+```python
 if detail:
     print("Dictionary is not empty")
 else:
@@ -88,39 +95,56 @@ else:
             "and that evaluates to boolean 'False'")
 
 print()
-
+```
+```python
 """ 
-You do not create a dictionary for being empty. You want to store values, retrieve values, use it for something useful. Generally, we create empty data structures when we do not know what to store at the moment of creation but we will update/use it as we work on the application logic. This should only be the reason why we create empty dictionary. 
+You do not create a dictionary for being empty. You want to store values, 
+retrieve values, use it for something useful. Generally, we create empty 
+data structures when we do not know what to store at the moment of creation 
+but we will update/use it as we work on the application logic. This should 
+only be the reason why we create empty dictionary. 
 
-If you know what to store while creating the dictionary, you should never be creating empty dictionary rather use others forms of instantiation given below
+If you know what to store while creating the dictionary, you should never 
+be creating empty dictionary rather use others forms of instantiation given 
+below
 
 """
 ```
 ---
+# Dictionary With Examples (Cntd)
+* Let us create a dictionary - Method #1
+* It is as simple as the following
 
-# Let us create a dictionary - Method #1
-# It is as simple as the following
+```python
 detail = {'name' : 'lakshmi', 'age': 18, 'id' : '007'}
 print(detail)
+```
 
-# Let us get the value of name
+* Let us get the value of name
+
+```python
 print(f"Value of 'name' is {detail['name']}")
 print(f"Value of 'age' is {detail['age']}")
 print(f"Value of 'ID' is {detail['id']}")
+```
 
-# Let us update age to 19, yeah today is my birthday
+* Let us update age to 19, yeah today is my birthday
+
+```python
 detail['age'] = 19
 print(f"Value of 'age' is {detail['age']}")
+```
 
-# Let us delete name, age, id and print the dictionary
+* Let us delete name, age, id and print the dictionary
+```python
 del detail['name']
 del detail['age']
 del detail['id']
 print(detail)
+```
 
-print()
-
-# Let us create a dictionary - Method #2
+* Let us create a dictionary - Method #2
+```python
 another_dictionary = {}
 another_dictionary['name'] = 'Lakshmi'
 another_dictionary['age'] = 18
@@ -128,17 +152,22 @@ another_dictionary['id'] = '001'
 
 print(another_dictionary)
 
-print()
+```
 
-# Let us create a dictionary - Method #3, by passing a list of tuples/sequences
+* Let us create a dictionary - Method #3, by passing a list of tuples/sequences
+```python
 tuple_dict = dict([('name', 'Narayanan'), ('age', 20), ('id', '002')])
 print(tuple_dict)
+```
 
-# Let us create a dictionary - Method #4, by passing a keyword arguments
+* Let us create a dictionary - Method #4, by passing a keyword arguments
+```python
 kw_dict = dict(name='Balaji', age=25, id='100')
 print(kw_dict)
+```
 
-# Let us iterate over all the keys and print them one by one
+* Let us iterate over all the keys and print them one by one
+```python
 print("The keys in the dictionary are:")
 for key in kw_dict.keys():
     print(key)
@@ -158,56 +187,81 @@ for key, value in kw_dict.items():
     print(f"{key} = {value}")
 
 print()
+```
+* Let us access a key that does not exist
+```python
+print(f"{kw_dict['does_not_exist']}")
+```
 
-# Let us access a key that does not exist
-#print(f"{kw_dict['does_not_exist']}")
-
-# Let us access a key that does not exist but still get away without any error
-# To run this statement, you have comment the previous statement
+* Let us access a key that does not exist but still get away without any error
+* To run this statement, you have comment the previous statement
+```python
 print(f"Value of {'name'} is {kw_dict.get('name')}")
+```
 
-# Let us access a key that does not exist
+* Let us access a key that does not exist
+```python
 print(f"Value of {'does_not_exist'} is {kw_dict.get('does_not_exist')}")
+```
 
-# Let us access a key that does not exist, but passing a string
+* Let us access a key that does not exist, but passing a string
+```python
 print(f"Value of {'does_not_exist'} is {kw_dict.get('does_not_exist', 'No Value')}")
+```
 
-# Let us delete a key
+---
+# Dictionary - Operations
+
+* Let us delete a key
+```python
 del kw_dict['name']
 print(kw_dict)
+```
 
-# Let us update a dictionary
+* Update a dictionary
+```python
 kw_dict.update(tuple_dict)
 print(kw_dict)
+```
 
-# let us pop a key from the dictionary
+* Pop a key from the dictionary
+```python
 value = kw_dict.pop('name')
 print(value)
 print(kw_dict)
+```
 
-# let us pop a key that does not exist. Uncomment the following two lines
-# to try. Comment those again after understanding to proceed to further
-# exercises
-#value = kw_dict.pop('does_not_exist')
-#print(value)
+* Pop a key that does not exist
+```python
+value = kw_dict.pop('does_not_exist')
+print(value)
 print(kw_dict)
+```
 
-# let us pop a key that does not exist,but let us pass a default value
+* Pop a key that does not exist, but let us pass a default value
+```python
 value = kw_dict.pop('does_not_exist', None)
 print(value)
 print(kw_dict)
+```
 
-# Let us load the dictionary again
+* Let us load the dictionary again
+```python
 kw_dict.update(tuple_dict)
 print(kw_dict)
+```
 
-# Let us understand popitem.
+* Let us understand popitem.
+```python
 value = kw_dict.popitem()
 print(value)
 print(kw_dict)
 
 kw_dict.update(tuple_dict)
-# Let us perform copying. Watch out
+```
+
+* Dictionary - Copy and Clear
+```python
 new_dict = kw_dict.copy()
 print(new_dict)
 print(kw_dict)
@@ -230,7 +284,6 @@ new_dict['name'] = "new name"
 print(new_dict)
 print(kw_dict)
 ```
-
 ---
 
 # Exercises
