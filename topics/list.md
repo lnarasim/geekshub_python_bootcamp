@@ -99,6 +99,10 @@ layout: false
     - print the first five elements of the list.
     - print the third and fourth element of the list.
 
+---
+
+# Exercises (Cntd)
+
 3. Add an element to the list by the following methods
     - add an element to the end of the list.
     - add an element at zeroth index.
@@ -110,6 +114,10 @@ layout: false
     - create a list called "states" and add all the lists created above to list "states". So, this will be a list containing lists
 
 5.  Define two lists and add all the elements of second list to the first. For example, if first = [1, 2, 3, 4, 5] and second = [6, 7, 8, 9, 10], the output should be [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+---
+
+# Exercises (Cntd)
 
 5. Define two lists and add the elements of both list to another common list. Ensure that first and second list should not be altered.
 
@@ -128,6 +136,10 @@ layout: false
     - Repeat for the list that has int values
     - Repeat for the list that has float values
 
+---
+
+# Exercises (Cntd)
+
 12. Repeat the above sorting exercise without changing the original list.
 
 13. Find the index of 5 in the following lists
@@ -144,6 +156,10 @@ layout: false
 
 18. Create a list of names of your friends. Create a friendship string with names of your friends separated by comma. For example, if the list is friends = ["Ram", "Krishna"], the output should be "Ram, Krishna"
 
+---
+
+# Exercises (Cntd)
+
 19. Take the friendship string (output of previous problem) and convert it back to string using split
 
 20. From the list "numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]", perform the following and get a new list.
@@ -159,6 +175,8 @@ layout: false
 
 22. A list contains many elements of the types. Write a function that creates a separate lists for integer, float, string and everything else.
 
-23. Given a list, how will you clear all the elements of the list. For example, numbers = [1,3,3,4,6,6] should be converted to numbers = [] without creating a new instance of an empty list (id(numbers) before and after the transformation should be same)
+---
 
-24. 
+# Exercises (Cntd)
+
+23. Given a list, how will you clear all the elements of the list. For example, numbers = [1,3,3,4,6,6] should be converted to numbers = [] without creating a new instance of an empty list (id(numbers) before and after the transformation should be same)
