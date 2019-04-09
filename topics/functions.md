@@ -13,7 +13,7 @@ with [examples](examples/functions.ipynb)
 name: inverse
 layout: false
 
-background-image: url(images/under_construction.jpg)
+background-image: url(/geekshub_python_bootcamp/images/under_construction.jpg)
 # Functions
 
 ---
