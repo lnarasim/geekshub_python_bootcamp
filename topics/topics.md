@@ -11,6 +11,7 @@ This page has list of materials used in Full Stack developer and Backend develop
 * List [[slides](list.html)]
 * Tuple [[slides](tuple.html)]
 * Dictionary [[slides](dictionary.html)]
+* Functions [[slides](functions.html)]
 * File I/O [[slides](fileio.html)]
 * Exceptions [[slides](exceptions.html)]
 * Classes [[slides](20_classes.html)]
