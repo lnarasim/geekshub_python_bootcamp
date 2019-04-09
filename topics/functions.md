@@ -13,6 +13,9 @@ with [examples](examples/functions.ipynb)
 name: inverse
 layout: false
 
+# Functions
+* TBD
+
 ---
 layout: true
 class: center, middle, inverse
