@@ -118,6 +118,24 @@ layout: false
 
 # Exercises
 
+1. Write a function that returns list of numbers from 0 to 1000 that are multiples of 3 and 7
+
+2. Given the radius of the circle, write a function to return area and circumference
+
+3. Write a function that takes two arguments - that are sides of square or rectangle (say a and b). The second argument should be optional. The fuction should return area (a * b). But for the square it is enough to get length of a side.
+    - area(a) should return a * a
+    - area(a, b) should return a * b
+
+4. Write a function to calculate compound interest if the principle, number of years, rate of interest is given. If not given, priciple should default to 1000, duration to 2  years and interest rate to 7%.
+
+5. Calculate compound interest passing named arguments.
+
+6. Calculate compound interest passing named arguments in out of order (not preseving the order of definition)
+
+7. Calculate compound interest without passing any arguments.
+
+8. More to come
+
 ---
 
 layout: true
