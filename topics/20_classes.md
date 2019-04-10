@@ -292,6 +292,14 @@ layout: false
     * \>
     * \<
 
+22. Implement a stack using class with simple operations - push and pop
+
+23. Implement a queue using class with simple operations - enqueue and dequeue
+
+24. Implement a Linked List using class with simple operations of add, edit, delete and iterate the list
+
+25. Implement a binary tree with insert and delete operations. Implement all traversals (inorder, preorder and postorder)
+
 ---
 
 layout: true
