@@ -83,7 +83,7 @@ layout: false
 ---
 # Calling a function with Arguments
 * Arguments must be passed for all mandatory positional parameters
-* Arguments that has default valued defined can be omitted.
+* Arguments that has default values defined can be omitted.
 * If omitted, the function takes the default value
 * Function can be called with named arguments.
 * Order is not important when the arguments are named
@@ -97,7 +97,7 @@ layout: false
 * It works pretty much like packing
 * Uses tuple
 * Cannot assign default values can variable length can range from 0 to anything
-* "*" denotes end of positional arguments
+* "*" (with parameter name) denotes end of positional arguments
 
 ---
 
@@ -106,6 +106,11 @@ layout: false
 * The caller should use keyword name to pass the value and call the function
 * Can take default values
 * Caller can omit if default values are given
+
+---
+
+# Examples 
+
 * Some (interesting) examples
     ```python
         def func(a, b, c = 50, d = 100):
