@@ -115,6 +115,14 @@ layout: false
     ```
 
 ---
+# Function Definition - Revisit
+- Any number of positional parameters
+- *args (to denote variable number of parameters)
+- Followed by "*" (denotes end of positional arguments)
+- Followed by any number of named parameters (you need to name them while calling)
+- Followed by **kwargs
+
+---
 
 # Exercises
 
@@ -129,6 +137,10 @@ layout: false
 4. Write a function to calculate compound interest if the principle, number of years, rate of interest is given. If not given, priciple should default to 1000, duration to 2  years and interest rate to 7%.
 
 5. Calculate compound interest passing named arguments.
+
+---
+
+# Exercises (cntd)
 
 6. Calculate compound interest passing named arguments in out of order (not preseving the order of definition)
 
