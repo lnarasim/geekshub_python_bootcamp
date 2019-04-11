@@ -50,7 +50,7 @@ layout: false
     ```
 ---
 
-# Parameters
+# Positional Parameters
 * Function can have one or more parameters
     ```python
     def func(a, b, c, d):
@@ -65,7 +65,7 @@ layout: false
 
 ---
 
-# Default Values - Parameters
+# Default Values - Positional Parameters
 * Each parameter can have default values assigned (d = 100)
     ```python
     def func(a, b, c, d = 100):
@@ -78,18 +78,34 @@ layout: false
 
 * Positional arguments without default values should come first
 * Followed by positional arguments with default values 
+* Positional argumentes with default values can be omitted by caller
 
 ---
-
-# Keyword arguments
-* While calling a function, arguments can be named
-* Order is not important if arguments are named
+# Calling a function with Arguments
+* Arguments must be passed for all mandatory positional parameters
+* Arguments that has default valued defined can be omitted.
+* If omitted, the function takes the default value
+* Function can be called with named arguments.
+* Order is not important when the arguments are named
 * If arguments are named, all the arguments that follows should also be named
-* Can be mixed with default values
 
 ---
 
-# Keyword Arguments - Examples
+# Variable Length Positional Parameters
+* After positional arguments, we can define *args as variable number of positional parameters
+* After this, no positional arguments can be defined
+* It works pretty much like packing
+* Uses tuple
+* Cannot assign default values can variable length can range from 0 to anything
+* "*" denotes end of positional arguments
+
+---
+
+# Keyword Only Parameters
+* After positional arguments, we can define keyword only parameters
+* The caller should use keyword name to pass the value and call the function
+* Can take default values
+* Caller can omit if default values are given
 * Some (interesting) examples
     ```python
         def func(a, b, c = 50, d = 100):
@@ -113,14 +129,24 @@ layout: false
         func(1, b = 2, c = 150)
 
     ```
+---
+
+# Variable Length Keyword Parameters
+* Like positional arguments, we can define variable length keyword parameters
+* Interpreted as dictionary
+* Represented as **kwargs by convention
+* No parameters can be defined after **kwargs
+* Can be called by caller in any order
 
 ---
+
 # Function Definition - Revisit
 - Any number of positional parameters
-- *args (to denote variable number of parameters)
-- Followed by "*" (denotes end of positional arguments)
-- Followed by any number of named parameters (you need to name them while calling)
+- *args (to denote variable number of parameters) or "*" (denotes end of positional arguments)
+- Followed by any number of keyword parameters (you need to name them while calling)
 - Followed by **kwargs
+- Each of the parameters can have default value
+- If default values are given, the caller can omit them while calling the function
 
 ---
 
@@ -146,7 +172,7 @@ layout: false
 
 7. Calculate compound interest without passing any arguments.
 
-8. More to come
+8. Write a function that computes factorial of a given number. Implement a cache that remembers the factorials that are already calculated.
 
 ---
 
