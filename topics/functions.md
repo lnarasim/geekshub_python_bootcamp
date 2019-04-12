@@ -155,6 +155,20 @@ layout: false
 
 ---
 
+# First Class Functions
+* Passed to a function as argument
+* A function can be returned
+* It can be assigned to a variable
+* Stored in a data structure
+* Functions are first class citizens
+
+# Higher Order Functions
+* A function is called higher order function if
+    * Takes function as argument
+    * Returns a function
+
+---
+
 # Exercises
 
 1. Write a function that returns list of numbers from 0 to 1000 that are multiples of 3 and 7
