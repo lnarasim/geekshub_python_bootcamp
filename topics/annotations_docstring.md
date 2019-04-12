@@ -13,7 +13,7 @@ with [examples](examples/annotation_docstring.ipynb)
 name: inverse
 layout: false
 
-# Docstring
+# Docstring (PEP 257)
 * The docstring or documentation string
 * Typically used by developer to know more
 * help(x)
@@ -33,7 +33,7 @@ layout: false
 
 ---
 
-# Function Annotation
+# Function Annotation (PEP 3107)
 * Documentation on parameters and return values
 * It is expression
 * Expression can include function call (but it is evaluated when function is loaded to memory)
