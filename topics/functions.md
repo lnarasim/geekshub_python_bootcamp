@@ -179,6 +179,10 @@ layout: false
 
 8. Write a function that computes factorial of a given number. Implement a cache that remembers the factorials that are already calculated.
 
+9. Write a function that does not have return statement. Call the function and store the return value to a variable and print the variable. Find out what Python does when there is no return statement or nothing is returned
+
+10. For the various parameters we say - positional, variable length positional parameters, keyword only parameters and variable length keyword only parameters, write a function to demonstrate all, document using annotations. Use help() to see your documentation
+
 ---
 
 layout: true
