@@ -162,6 +162,8 @@ layout: false
 * Stored in a data structure
 * Functions are first class citizens
 
+---
+
 # Higher Order Functions
 * A function is called higher order function if
     * Takes function as argument
