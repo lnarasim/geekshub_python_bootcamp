@@ -4,7 +4,7 @@ This page has list of materials used in Full Stack developer and Backend develop
 
 * Python Introduction [[slides](python_introduction/python_introduction.html)]
 * Datatypes [[slides](datatypes/datatypes.html)]
-* Int [[slides](int.html)]
+* Int [[slides](datatypes/int.html)]
 * Float [[slides](float.html)]
 * Boolean [[slides](bool.html)]
 * String [[slides](string.html)]

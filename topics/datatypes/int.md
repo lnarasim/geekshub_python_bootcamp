@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # Datatype - int
-with [examples](examples/int.ipynb)
+with [examples](int.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 
@@ -28,6 +28,7 @@ layout: false
 * fractions
 * decimal
 * complex
+* bool - True or False
 
 ---
 
@@ -37,18 +38,20 @@ layout: false
    - unsigned
 * How numbers are stored
    - 8 bit notation
+   - Sign bit
+   - 7 bits sequence
 
 ---
 
 # Integers in Python
-* Unlimited in size
-* Can be as big as the size of the memory we have
-* Variable number of bits
-* Seamless to us
 * Integer is an object
+* Immutable
+* Unlimited in size
+      * Can be as big as the size of the memory we have
+      * Variable number of bits
+* Seamless to us
 * It has overhead
 * Large number use more memory
-* Immutable
 
 ---
 # Integer airthmetic operations
@@ -76,7 +79,7 @@ layout: false
 * a = int('10')
 * a = int(10.1)
 * a = int('a', 16) # a base of 16
-   * Base can be 2 to 36
+   * Base can be 2 to 36 (0 to 9, A to Z)
 * a = int(True)
 * a = int(False)
 

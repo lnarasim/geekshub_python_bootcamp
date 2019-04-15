@@ -213,8 +213,17 @@ layout: false
 * Comments are stripped off during compilation
 
 ---
+# String
+* Text written between single quotes
+* Text written between double quotes
+* Examples:
+   ```python
+   greeting = "Hello"
+   user = 'Lakshmi'
+   ```
+---
 
-# Multiline Comments
+# Multiline String
 * Text written between two triple double quotes
 * Text written between two triple single quotes
 * Standard string object
@@ -227,7 +236,7 @@ layout: false
 * Physical lines of code
 * Logical lines of code
 * Implicit line continuation
-* Explicit line continuation
+* Explicit line continuation (use \\)
 
 ---
 
