@@ -101,25 +101,47 @@ layout: false
 
 ---
 
-# Exercises
+# Exercises (1/3)
 
 1. Write a map to calcuate some of elements of two lists
 
-2. Write a map to calcuate area of the rectangle. The lists "length" and "breadh" contains length and breadh of rectable
+2. Write a map to calcuate area of the rectangles. The lists "length" and "breadh" contains length and breadh of rectangles
 
 3. There are three lists containing first name, middle name and last name of individuals. Write a map to evaluate full name of the individuals and store it in another lists named "full name"
 
-4. Perform all the above using lambda
+4. There are arbitary number of lists. Write a map to caculate the the sum of elements of the lists. The map should work for any number of lists
 
-5. Write a filter to get list of all prime numbers from 1 to 1000
+5. For the following lists x, y, z. Perform x + y - z using map.
+    - x = [1, 2, 3, 4, 5]
+    - y = [10, 20, 30, 40, 50]
+    - z = [100, 200, 300, 400, 500]
 
-6. Write a filter to get list of all numbers between 1 and 100 that are divisble by 7
+---
 
-7. Given a list of strings, write a filter to get list of strings that are palindrome
+# Exercises (2/3)
 
-8. Write a map/filter that finds some of elements that are divisble by 7. (Hint: You need to find a list with some of each elements of the lists and then get a list containing elements that are multiple of 7)
+6. For the following lists x, y. Perform square of (x + y) using map.
+    - x = [1, 2, 3, 4, 5]
+    - y = [10, 20, 30, 40, 50]
+    - z = [100, 200, 300, 400, 500]
 
-9. Try solving the previous example with lambda
+7. Perform all the above using lambda
+
+8. Write a filter to get list of all prime numbers from 1 to 1000
+
+9. Write a filter to get list of all numbers between 1 and 100 that are divisble by 7
+
+10. Given a list of strings, write a filter to get list of strings that are palindrome
+
+---
+
+# Exercises (3/3)
+
+11. Write a map/filter that finds some of elements that are divisble by 7. (Hint: You need to find a list with some of each elements of the lists and then get a list containing elements that are multiple of 7)
+
+12. Try solving the previous example with lambda
+
+13. You have a list of lists representing a square matrix. Write a zip function to transpose the matrix
 
 ---
 layout: true
