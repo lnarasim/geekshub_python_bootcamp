@@ -102,6 +102,14 @@ layout: false
   - Install Jupyter themes
 
 ---
+# Let Us Code
+* Add two numbers
+* Subtract a number from another number
+* Multiply two numbers
+* Try raised to the power
+* Find the biggest number that can be stored in Python
+
+---
 
 # Simple Output
 - "print"
