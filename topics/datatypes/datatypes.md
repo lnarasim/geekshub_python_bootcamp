@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # Datatypes
-with [examples](examples/datatypes.ipynb)
+with [examples](datatypes.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 
