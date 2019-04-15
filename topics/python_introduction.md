@@ -59,7 +59,16 @@ layout: false
 ---
 
 # How to Learn Python
--
+* Think before you code
+* Code 
+   * At least 1 hour if you are working, 
+   * At least 4 hours if you are searching job
+* Refactor
+* Practice
+* Write
+* Help Others by teaching
+* Review others code
+* Do mini-projects
 
 ---
 
