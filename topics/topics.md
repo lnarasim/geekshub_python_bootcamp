@@ -2,10 +2,15 @@
 
 This page has list of materials used in Full Stack developer and Backend developer bootcamp in Python. There is a heavy focus on problem solving, understanding under the hood and Linux. The materials are usually presentation slides with crisp bullet, examples, quizzes.
 
+###
+#### Pass two completed
 * Python Introduction [[slides](python_introduction/python_introduction.html)]
 * Datatypes [[slides](datatypes/datatypes.html)]
 * Int [[slides](datatypes/int.html)]
 * Float [[slides](datatypes/float.html)]
+
+###
+#### Pass one completed
 * Boolean [[slides](bool.html)]
 * String [[slides](string.html)]
 * List [[slides](list.html)]
