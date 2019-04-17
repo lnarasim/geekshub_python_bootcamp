@@ -22,7 +22,7 @@ This page has list of materials used in Full Stack developer and Backend develop
 
 ## Functions and Related
 * Functions [[slides](functions/functions.html)]
-* Scopes [[slides](functions/functions.html)]
+* Scopes [[slides](functions/scopes.html)]
 * Lambda [[slides](functions/lambda.html)]
 * Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
 * List Comprehension [[slides](functions/list_comprehension.html)]
