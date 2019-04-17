@@ -23,7 +23,6 @@ layout: false
     ```python
     lambda \<parameter list\> : \<expression evaluated and returned\>
     ```
-
 ---
 
 # Lambda (cntd)
@@ -32,7 +31,6 @@ layout: false
 * Can give default values to parameters
 * Can have positional params, keyword only params, variable positional params, variable keyword params
 * Pretty much like function (without name and can have only expression)
-
 
 ---
 # Lambda Limitations
