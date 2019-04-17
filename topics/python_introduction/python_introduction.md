@@ -166,7 +166,6 @@ layout: false
 # Reference
 - Assigning an object to a variable and making it to point to the object
 - It is actual link or connection made
-
 # Examples:
 * number = 100 - number points to an object of the class "int"
 * car = Car() - car points to an object of the class "Car"
