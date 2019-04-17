@@ -164,7 +164,6 @@ layout: false
 ---
 
 # Reference
-
 - Assigning an object to a variable and making it to point to the object
 - It is actual link or connection made
 
