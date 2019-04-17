@@ -9,13 +9,13 @@ This page has list of materials used in Full Stack developer and Backend develop
 * Datatypes [[slides](datatypes/datatypes.html)]
 * Int [[slides](datatypes/int.html)]
 * Float [[slides](datatypes/float.html)]
-* Boolean [[slides](bool.html)]
-* String [[slides](string.html)]
-* List [[slides](list.html)]
-* Tuple [[slides](tuple.html)]
-* Dictionary [[slides](dictionary.html)]
-* File I/O [[slides](fileio.html)]
-* Packing & Unpacking [[slides](packing_unpacking.html)]
+* Boolean [[slides](datatypes/bool.html)]
+* String [[slides](datatypes/string.html)]
+* List [[slides](datatypes/list.html)]
+* Tuple [[slides](datatypes/tuple.html)]
+* Dictionary [[slides](datatypes/dictionary.html)]
+* File I/O [[slides](datatypes/fileio.html)]
+* Packing & Unpacking [[slides](datatypes/packing_unpacking.html)]
 
 ## Conditionals and Loops
 * TBD
@@ -23,9 +23,9 @@ This page has list of materials used in Full Stack developer and Backend develop
 ## Functions and Related
 * Functions [[slides](functions/functions.html)]
 * Scopes [[slides](functions/functions.html)]
-* Lambda [[slides](lambda.html)]
-* Map, Filte, Zip [[slides](map_filter_zip.html)]
-* List Comprehension [[slides](list_comprehension.html)]
+* Lambda [[slides](functions/lambda.html)]
+* Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
+* List Comprehension [[slides](functions/list_comprehension.html)]
 * Closures
 * Decorators
 * Callables
