@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # Scope
-with [examples](scopes.ipynb)
+with [examples](scopes.ipynb), [global](local_global_scopes.ipynb), [nonlocal](nonlocal_scope.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 

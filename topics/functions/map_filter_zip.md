@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # Map, Filter, Zip
-with [examples](examples/map_filter_zip.ipynb)
+with [examples](map_filter_zip.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 

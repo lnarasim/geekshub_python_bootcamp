@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # Lambda
-with [examples](examples/lambda.ipynb)
+with [examples](lambda.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 

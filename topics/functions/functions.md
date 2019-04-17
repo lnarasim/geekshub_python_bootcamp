@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # Functions
-with [examples](examples/functions.ipynb)
+with [examples](functions.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 
