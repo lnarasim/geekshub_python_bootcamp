@@ -14,6 +14,7 @@ This page has list of materials used in Full Stack developer and Backend develop
 * List [[slides](datatypes/list.html)]
 * Tuple [[slides](datatypes/tuple.html)]
 * Dictionary [[slides](datatypes/dictionary.html)]
+* Set [[slides](datatypes/set.html)]
 * File I/O [[slides](datatypes/fileio.html)]
 * Packing & Unpacking [[slides](datatypes/packing_unpacking.html)]
 
@@ -36,7 +37,9 @@ This page has list of materials used in Full Stack developer and Backend develop
 * Class Decorators
 
 ## WIP
-
+* Regular Expression
+* Command Line Arguments
+* Playing with Garbage Collection
 
 
 * Function Introspection [[slides](function_introspection.html)]
