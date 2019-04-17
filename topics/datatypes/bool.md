@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # Datatype - bool
-with [examples](examples/bool.ipynb)
+with [examples](bool.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 

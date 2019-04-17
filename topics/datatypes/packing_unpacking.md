@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # Packing & Unpacking
-with [examples](examples/packing_unpacking.ipynb)
+with [examples](packing_unpacking.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 

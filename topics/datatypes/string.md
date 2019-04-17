@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # String
-with [examples](examples/string.ipynb)
+with [examples](string.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 

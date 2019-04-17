@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # List
-with [examples](examples/list.ipynb)
+with [examples](list.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 

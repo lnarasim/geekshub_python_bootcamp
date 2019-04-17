@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # Dictionary
-with [examples](examples/dictionary.ipynb)
+with [examples](dictionary.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 

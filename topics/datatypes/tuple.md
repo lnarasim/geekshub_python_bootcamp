@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # Tuple
-with [examples](examples/tuple.ipynb)
+with [examples](tuple.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 
