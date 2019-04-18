@@ -4,7 +4,22 @@
 7. Regular Expression
 8. PIP
 9. virtual environment
-10. 
+10. REST API
+11. PyTest
+12. Robot Framework
+13. Postman/newman
+14. Load/scale testing
+15. Traging
+16. Linux foundations
+17. Virtualization - Basics
+    * Vmware workstation
+    * Virtual Box
+18. Containers - Basics
+    * Docker
+    * Working with images, containers
+    * Docker Hub
+19. MongoDB/MySQL
+19. CI/CD - Overview
 
 # Completed Action Items:
 1. String Examples - Pass 1
