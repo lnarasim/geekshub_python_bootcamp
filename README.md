@@ -9,6 +9,8 @@ This page is just to make your life look easy. Your life changes if you read the
 
 Almost all slides will have code examples unless it is purely concepts. The examples can be downloaded by clicking "examples" in the title slide of each topic or you can view these examples in examples directory in repository.
 
+Read our [__Good Ways of Working__](good_ways_of_working.md)
+
 1. [Topics](topics/topics.md) - This is no replacement to our live sessions. But this helps participants to recollect the concepts. There are examples, questions/quizzes and simple programs to solve. You should do all these without fail.
 2. [Programming Puzzles](programming_puzzles.md) - These are puzzles that should be solved using few concepts in Python
 3. [Tools Projects](tools_projects.md) - Develop a tool and this can span for a period of 2-3 weeks
