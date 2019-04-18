@@ -1,13 +1,18 @@
 # GeeksHub Python Bootcamp
 ## Co-Creating Tomorrow
 
-A space to reinvent ourselves. A group of passionate software guys congregate to transform their own future, every weekend. It is a Hub for Geeks - software craftsmen of tomorrow. Right from the first principle, interconnecting the dots, producing something at higher abstraction - either self or technology.
+### What we do
+A space to __reinvent__ ourselves. A group of passionate software guys congregate to transform their own future, every weekend. It is a Hub for Geeks - __software craftsmen of tomorrow__. Right from the first principle, interconnecting the dots, producing something at higher abstraction - either self or technology.
 
 While our goal is to transform ourselves, the by-products are finding a job to do what you would love to do. The journey is simple but involved, fixed number of steps with each step getting increasingly complex and rewards as we break the complexity.
 
-This page is just to make your life look easy. Your life changes if you read these slides, examples and puzzles. You __transform__ if you do what is __said__
 
-Almost all slides will have code examples unless it is purely concepts. The examples can be downloaded by clicking "examples" in the title slide of each topic or you can view these examples in examples directory in repository.
+### How we do
+This page is just to make our life look easy. Your life changes if you __do__ these slides, examples and puzzles. You __transform__ if you do what is __said__
+
+Almost all slides will have code examples unless it is purely concepts. The examples can be downloaded by clicking "examples" in the title slide of each topic or you can view these examples in the repository.
+
+### Attention
 
 Read our [__Good Ways of Working__](good_ways_of_working.md)
 
@@ -16,13 +21,13 @@ Read our [__Good Ways of Working__](good_ways_of_working.md)
 3. __[Tools Projects]__(tools_projects.md) - Develop a tool and this can span for a period of 2-3 weeks
 4. __Projects__ - Span across months and often done with fellow GeeksHub Geeks. The projects are not listed here and exclusive to Geeks
 
-#### Methodology
+### Methodology
 __Problem Solving, DS & Algo, First Principles__
 
-#### Modes:
+### Modes:
 __Sessions, Solved Examples, Coding Quizzes, Tools Projects and Projects__
 
-#### Technology: 
-__Python, Software Development and Automation, Linux, Virtualization, Containers, Microservices, CI/CD, TDD, IT Automation and the likes__
+### Technology: 
+__Python, Software Development and Automation, Linux, Virtualization, Containers, Microservices, CI/CD, TDD, IT Automation, Git/GitHub and the likes__
 
 [GeeksHub](https://www.geekshub.in)
