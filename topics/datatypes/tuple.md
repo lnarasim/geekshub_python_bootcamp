@@ -17,9 +17,9 @@ layout: false
 - Immutable
 - Iterable
 - Same as lists but immutable
-- Defined using parentheses. Ex: ('India', 'USA')
-- Indexing
-- Slicing
+- Defined using comma. Ex: 'India', 'USA'
+- Supports Indexing
+- Supports Slicing
 - Executes faster than lists
 - Define one item tuple as ("string",) as Python understands that as different data type
 
