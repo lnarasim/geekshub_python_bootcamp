@@ -2,7 +2,7 @@
 
 This page has list of materials used in Full Stack developer and Backend developer bootcamp in Python. There is a heavy focus on problem solving, understanding under the hood and Linux. The materials are usually presentation slides with crisp bullet, examples, quizzes.
 
-##
+Steps to follow - attend the class -> ask questions -> try out solved exercises -> solve chapter end exercises -> programming puzzles -> mini-projects/tools development -> project
 
 ## Python Intro and Datatypes
 * Python Introduction [[slides](python_introduction/python_introduction.html)]
@@ -23,13 +23,13 @@ This page has list of materials used in Full Stack developer and Backend develop
 
 ## Functions and Related
 * Functions [[slides](functions/functions.html)]
-* Scopes [[slides](functions/scopes.html)]
 * Lambda [[slides](functions/lambda.html)]
 * Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
 * List Comprehension [[slides](functions/list_comprehension.html)]
+* Callables
+* Scopes [[slides](functions/scopes.html)]
 * Closures
 * Decorators
-* Callables
 
 ## Classes and Related
 * Exceptions [[slides](exceptions.html)]
