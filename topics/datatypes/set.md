@@ -92,7 +92,7 @@ layout: false
 
 2. Create an empty list, tuple and set
 
---- 
+---
 
 layout: true
 class: center, middle, inverse
