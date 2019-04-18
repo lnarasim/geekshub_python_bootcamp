@@ -2,7 +2,6 @@
 
 ## Topics
 
-4. Dictionary examples
 6. Set - slides and examples
 7. Regular Expression
 8. PIP
@@ -12,7 +11,7 @@
 12. Robot Framework
 13. Postman/newman
 14. Load/scale testing
-15. Traging
+15. Triaging
 16. Linux foundations
 17. Virtualization - Basics
     * Vmware workstation
@@ -31,4 +30,4 @@
 1. String Examples - Pass 1
 5. List Comprehension - slides and examples
 3. Tuple examples
-
+4. Dictionary examples
