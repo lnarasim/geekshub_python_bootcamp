@@ -11,19 +11,18 @@ Almost all slides will have code examples unless it is purely concepts. The exam
 
 Read our [__Good Ways of Working__](good_ways_of_working.md)
 
-1. [Topics](topics/topics.md) - This is no replacement to our live sessions. But this helps participants to recollect the concepts. There are examples, questions/quizzes and simple programs to solve. You should do all these without fail.
-2. [Programming Puzzles](programming_puzzles.md) - These are puzzles that should be solved using few concepts in Python
-3. [Tools Projects](tools_projects.md) - Develop a tool and this can span for a period of 2-3 weeks
-4. Projects - Span across months and often done with fellow GeeksHub Champions
+1. __[Class Notes]__(topics/topics.md) - We anchor our sessions based on these topics and this is no means the complete list. But this helps participants to recollect the concepts. There are examples, questions/quizzes and simple programs to solve. You should try all these without fail.
+2. __[Programming Puzzles]__(programming_puzzles.md) - These are puzzles that should be solved using few concepts in Python
+3. __[Tools Projects]__(tools_projects.md) - Develop a tool and this can span for a period of 2-3 weeks
+4. __Projects__ - Span across months and often done with fellow GeeksHub Geeks. The projects are not listed here and exclusive to Geeks
 
-#### Modes:
-__Topics, Examples, Quizzes, Tools Projects and Projects will grow over a period of time__
-#### Technology: 
-__Python, Linux, Virtualization, Containers, Microservices, CI/CD, TDD and the likes__
-#### DNA
+#### Methodology
 __Problem Solving, DS & Algo, First Principles__
 
-### GeeksHub's Geeks
-The participants of the bootcamps are encouraged to use this website/page, challenge in the bootcamps for an efficient solution.
+#### Modes:
+__Sessions, Solved Examples, Coding Quizzes, Tools Projects and Projects__
+
+#### Technology: 
+__Python, Software Development and Automation, Linux, Virtualization, Containers, Microservices, CI/CD, TDD, IT Automation and the likes__
 
 [GeeksHub](https://www.geekshub.in)
