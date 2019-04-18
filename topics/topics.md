@@ -37,7 +37,7 @@ Attend the class -> Ask questions -> Try out solved exercises -> Solve chapter e
 * Classes [[slides](20_classes.html)]
 * Class Decorators
 
-## WIP
+## Other Topics (WIP)
 * Regular Expression
 * Command Line Arguments
 * Playing with Garbage Collection
