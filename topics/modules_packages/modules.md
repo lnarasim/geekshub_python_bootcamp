@@ -49,17 +49,33 @@ layout: false
 
 # Importing (Cntd)
 * Finders - finds the module (file, network, database etc)
-* Loaders - loads and executes the module
+    * sys.meta_path
+* Loaders - loads and executes the module using ModuleSpec
 * Importers - names given to Finders/Loaders
 * Varieties of finders/loaders available in Python
-    * sys.meta_path
-    * \_\_spec\_\_ 
+    * \_\_spec\_\_
+* sys.path or package's \_\_path\_\_
 * import
     * imports the modules (more on this later)
 * importlib
     * importlib.import_module('math')- loads sys.modules cache using module name
     * importlib.util.find_spec to get the spec file of the module
 * [Examples](import_importlib.ipynb)
+
+---
+
+# Module Properties
+* type(math)
+* math.\_\_spec\_\_
+* math.\_\_name\_\_
+* math.\_\_package\_\_
+* math.\_\_file\_\_ (not available for built-in modules)
+* built-in
+    * math
+* standard library
+    * fractions
+* custom module
+    * module1
 
 ---
 
@@ -83,6 +99,14 @@ layout: false
 * Some other part of the code may still referring to outdated
 * Do not do it in production
 * [Examples](reloading_modules.ipynb)
+
+---
+
+# \_\_main\_\_
+* \_\_name\_\_ set to \_\_main\_\_ if the module is run as script
+* \_\_name\_\_ points to module name if imported as module
+* \_\_main\_\_.py - Python executes this file when it is present as starting point of the application
+* Let us see some examples
 
 ---
 
