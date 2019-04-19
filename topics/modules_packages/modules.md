@@ -37,12 +37,29 @@ layout: false
     ``` 
 ---
 
-# Importing
+# How Importing Works
 * Checks sys.modules
 * Creates a new module type
 * Loads source code from the file (if not found in sys.modules cache)
 * Add entries to the cache
 * Compiles and executes the source code
+* Finders, Loaders, Importers
+
+---
+
+# Importing (Cntd)
+* Finders - finds the module (file, network, database etc)
+* Loaders - loads and executes the module
+* Importers - names given to Finders/Loaders
+* Varieties of finders/loaders available in Python
+    * sys.meta_path
+    * \_\_spec\_\_ 
+* import
+    * imports the modules (more on this later)
+* importlib
+    * importlib.import_module('math')- loads sys.modules cache using module name
+    * importlib.util.find_spec to get the spec file of the module
+* [Examples](import_importlib.ipynb)
 
 ---
 
