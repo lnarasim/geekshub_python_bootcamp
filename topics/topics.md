@@ -3,7 +3,14 @@
 This page has list of materials used in Full Stack developer and Backend developer bootcamp in Python. There is a heavy focus on problem solving, understanding under the hood and Linux. The materials are usually presentation slides with crisp bullet, examples, quizzes.
 
 ## Steps to follow
-Attend the class -> Ask questions -> Try out solved exercises -> Solve chapter end exercises -> Solve programming puzzles -> Develop mini-projects/tools development -> Develop project
+1. Attend the class
+2. Ask questions
+3. Try out solved exercises
+4. Solve chapter end exercises
+5. Solve programming puzzles
+6. Develop mini-projects/tools development
+7. Develop project
+8. Repeat
 
 ## Python Intro and Datatypes
 * Python Introduction [[slides](python_introduction/python_introduction.html)]
