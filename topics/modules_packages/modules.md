@@ -3,7 +3,7 @@ class: center, middle, inverse
 
 ---
 
-# Modules
+# Modules (PEP 302)
 with [examples](modules.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)

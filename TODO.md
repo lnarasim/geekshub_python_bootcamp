@@ -25,6 +25,7 @@
 
 ## Exercises to be added later:
 1. Use decorator to print mathematics table we learnt in first standard
+2. HTTP Module loader
 
 # Completed Action Items:
 1. String Examples - Pass 1
