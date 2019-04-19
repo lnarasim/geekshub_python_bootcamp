@@ -64,16 +64,20 @@ layout: false
 ---
 
 # Import Variants
-* import <module>
-* import <module> as <alias>
-* from <module> import <symbol>
-* from <module> import <symbol> as <alias>
+* import __module__
+* import __module__ as __alias__
+* from __module__ import __symbol__
+* from __module__ import __symbol__ as __alias__
 * from math import *
 * All imports leads to loading of entire modules in sys.cache
 * The only difference is what symbols imported to globals() or locals()
 * [Examples](import_variants.ipynb)
 
 ---
+
+# Reloading Modules
+* TBD
+* [Examples](reloading_modules.ipynb)
 
 # Exercises
 
