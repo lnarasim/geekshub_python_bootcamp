@@ -76,7 +76,12 @@ layout: false
 ---
 
 # Reloading Modules
-* TBD
+* Danger ahead
+    * deleting sys.modules entry
+    * importlib.reload(module_name)
+* Can be done but dangerous
+* Some other part of the code may still referring to outdated
+* Do not do it in production
 * [Examples](reloading_modules.ipynb)
 
 # Exercises
