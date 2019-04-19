@@ -37,6 +37,7 @@ This page has list of materials used in Full Stack developer and Backend develop
 * Callables
 * Scopes [[slides](functions/scopes.html)]
 * Closures
+* Decorators - Simple and Easy
 * Decorators
 
 ## Classes and Related
