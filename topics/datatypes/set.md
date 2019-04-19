@@ -67,7 +67,7 @@ layout: false
      set.symmetric_difference(), set.issubset(), set.issuperset()
       * same as given before. Instead of symbol, the respective
           methods can be used
-   - set.disjoint()
+   - set.isdisjoint()
         * True if there are no common elements, else False
    - set.update()
    - set.intersection_update()
