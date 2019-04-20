@@ -30,7 +30,7 @@ This page has list of materials used in Full Stack developer and Backend develop
 * TBD
 
 ## Modules and Packages
-* Modules [[slides](modules_packages/modules.html)]
+* Modules [[slides](modules/modules.html)]
 * Packages [[slides](packages/packages.html)]
 
 ## Functions and Related
