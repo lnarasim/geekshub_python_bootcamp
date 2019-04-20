@@ -6,6 +6,9 @@ A space to __reinvent__ ourselves. A group of passionate software guys congregat
 
 While our goal is to transform ourselves, the by-products are finding a job to do what you would love to do. The journey is simple but involved, fixed number of steps with each step getting increasingly complex and rewards as we break the complexity.
 
+A few slides to sum up what you will undergo
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxR_JnAiAnc15gTMTh2JGwgaA-kWcQDbODUSAqSNi8jOeg04pggKzV8L8pJBFLWJgZx2EUvBopEa3w/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### How we do
 This page is just to make our life look easy. Your life changes if you __do__ these slides, examples and puzzles. You __transform__ if you do what is __said__
