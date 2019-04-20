@@ -1,6 +1,6 @@
 # GeeksHub - Python Bootcamp
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dHHmUF9gs70" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://docs.google.com/presentation/d/1Qs0po9e6echcoLnQFMOdH32q3CQegKCoBa0p2386Gr8/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
 
 This page has list of materials used in Full Stack developer and Backend developer bootcamp in Python. There is a heavy focus on problem solving, understanding under the hood and Linux. The materials are usually presentation slides with crisp bullet, examples, quizzes.
 
