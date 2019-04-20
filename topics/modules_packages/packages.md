@@ -62,6 +62,16 @@ layout: false
 
 ---
 
+# Packages and Modules - dunder variables
+* module1.\_\_file\_\_
+* module1.\_\_package\_\_
+* module1.\_\_path\_\_ (throws error as modules do not have \_\_path\_\_)
+* pack1.\_\_file\_\_
+* pack1.\_\_package\_\_
+* pack1.\_\_path\_\_
+
+---
+
 # Importing (Cntd)
 * Finders - finds the module (file, network, database etc)
     * sys.meta_path
