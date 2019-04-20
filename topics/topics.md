@@ -31,7 +31,7 @@ This page has list of materials used in Full Stack developer and Backend develop
 
 ## Modules and Packages
 * Modules [[slides](modules_packages/modules.html)]
-* Packages [[slides](modules_packages/packages.html)]
+* Packages [[slides](packages/packages.html)]
 
 ## Functions and Related
 * Functions [[slides](functions/functions.html)]
