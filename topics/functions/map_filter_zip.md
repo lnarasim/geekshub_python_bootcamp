@@ -101,7 +101,7 @@ layout: false
 
 ---
 
-# Exercises (1/3)
+# Exercises
 
 1. Write a map to calcuate some of elements of two lists
 
@@ -118,7 +118,7 @@ layout: false
 
 ---
 
-# Exercises (2/3)
+# Exercises (cntd)
 
 6. For the following lists x, y. Perform square of (x + y) using map.
     - x = [1, 2, 3, 4, 5]
@@ -135,13 +135,39 @@ layout: false
 
 ---
 
-# Exercises (3/3)
+# Exercises (cntd)
 
 11. Write a map/filter that finds some of elements that are divisble by 7. (Hint: You need to find a list with some of each elements of the lists and then get a list containing elements that are multiple of 7)
 
 12. Try solving the previous example with lambda
 
 13. You have a list of lists representing a square matrix. Write a zip function to transpose the matrix
+
+14. Given a list of radius of different circles, write a map to find out respective areas
+
+15. Given a lists of length and breadh of rectangle, write a map to find out respective areas
+    * length = [10, 20, 30, 40]
+    * breadh = [2, 3, 4, 5]
+
+---
+
+# Exercises (cntd)
+
+16. Given a list of tuples that represent the sides of rectangle or square, write a map/filter to get the list of tuples that defines rectangle
+    * sides = [(10, 20), (2, 2), (3, 4), (4, 4)]
+    * output should be [(10, 20), (3, 4)]
+
+17. Given a list of tuples that represent the sides of rectangle or square, write a map/filter to get the list of tuples that defines square
+    * sides = [(10, 20), (2, 2), (3, 4), (4, 4)]
+    * output should be [(2, 2), (4, 4)]
+
+18. Given three lists that has principle, number of years and interest rate, write a map/filter to calculate the compound interest.
+    * principle = [1000, 2000, 4000, 5000]
+    * years = [2, 4, 5, 6]
+    * interest = [6, 7, 8, 9]
+    * output should be [123.60000000000014, 621.5920200000005, 1877.3123072000026, 3385.500554205004]
+
+19. Calculate simple interest for the previous problem using map/filter
 
 ---
 layout: true
