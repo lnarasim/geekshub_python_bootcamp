@@ -211,6 +211,7 @@ layout: false
 * Comments are stripped off during compilation
 
 ---
+
 # String
 * Text written between single quotes
 * Text written between double quotes

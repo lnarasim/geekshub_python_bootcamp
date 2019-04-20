@@ -67,9 +67,18 @@ layout: false
     * list of strings
     * list of tuple
 
+---
+
+# Exercises (cntd)
+
+14. Write a list comprehension to find list of prime numbers between 2 and 100.
+
+15. Write using nested list comprehension
+
 14. __Revise this after two weeks__
 
 ---
+
 layout: true
 class: center, middle, inverse
 

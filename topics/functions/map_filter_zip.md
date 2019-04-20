@@ -170,6 +170,7 @@ layout: false
 19. Calculate simple interest for the previous problem using map/filter
 
 ---
+
 layout: true
 class: center, middle, inverse
 
