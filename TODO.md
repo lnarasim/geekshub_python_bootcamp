@@ -1,8 +1,8 @@
 # Action Items
 
 ## Topics
-
-6. Set - slides and examples
+6. Set - examples
+7. Modules - Exercises
 7. Regular Expression
 8. PIP
 9. virtual environment
@@ -22,6 +22,7 @@
     * Docker Hub
 19. MongoDB/MySQL
 19. CI/CD - Overview
+21. Git/GitHub
 
 ## Exercises to be added later:
 1. Use decorator to print mathematics table we learnt in first standard
@@ -32,3 +33,5 @@
 5. List Comprehension - slides and examples
 3. Tuple examples
 4. Dictionary examples
+5. Set - slides
+6. Modules - Slides
