@@ -49,6 +49,7 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * Closures
 * Decorators - Simple and Easy
 * Decorators
+* Generators
 
 ## Classes and Related
 * Exceptions [[slides](exceptions.html)]
