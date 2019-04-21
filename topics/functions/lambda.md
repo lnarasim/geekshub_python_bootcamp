@@ -74,13 +74,9 @@ layout: false
 
 4. Write a lambda to calcuate the area of a triangle
 
-5. Write a function "area" that calls each of above lambda and returns area
+5. Write a lambda to check whether or not given string is a palindrome
 
-6. Write a lambda to check whether or not given string is a palindrome
-
-7. Write a lambda to check whether or not given number is multiple of 3 and multiple of 7
-
-8. Write lambda functions to calculate circumference/perimeter of a circle, square, rectangle, triangle and a generic function to call each of the lambdas and return respective values
+6. Write a lambda to check whether or not given number is multiple of 3 and multiple of 7
 
 ---
 layout: true
