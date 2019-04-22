@@ -51,8 +51,8 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * Generators
 
 ## Classes and Related
-* Exceptions [[slides](exceptions.html)]
-* Classes [[slides](20_classes.html)]
+* Exceptions [[slides](classes_exceptions/exceptions.html)]
+* Classes [[slides](classes_exceptions/classes.html)]
 * Class Decorators
 
 ## Other Topics (WIP)
