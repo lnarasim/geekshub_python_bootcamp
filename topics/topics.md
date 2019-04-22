@@ -41,6 +41,7 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 
 ## Functions and Related
 * Functions [[slides](functions/functions.html)]
+* Annotations and Docstring [[slides](functions/annotation_docstring.html)]
 * Lambda [[slides](functions/lambda.html)]
 * Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
 * List Comprehension [[slides](functions/list_comprehension.html)]
