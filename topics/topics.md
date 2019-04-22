@@ -46,9 +46,8 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * List Comprehension [[slides](functions/list_comprehension.html)]
 * Callables
 * Scopes [[slides](functions/scopes.html)]
-* Closures
-* Decorators - Simple and Easy
-* Decorators
+* Closures [[slides](functions/closures.html)]
+* Decorators - Simple and Easy [[slides](functions/decorators.html)]
 * Generators
 
 ## Classes and Related
