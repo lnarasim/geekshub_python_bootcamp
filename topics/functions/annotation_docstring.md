@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 # Annotation and Docstring
-with [examples](examples/annotation_docstring.ipynb)
+with [examples](annotation_docstring.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 
