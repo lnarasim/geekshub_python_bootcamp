@@ -1,8 +1,22 @@
 # Action Items
 
+# Automation Track
+1. PyTest
+2. Postman and Newman
+3. Robot Framework
+4. Selenium
+
+# DevOps Track
+1. Jenkins
+2. Ansible
+3. Docker
+4. Virtualization
+
 ## Topics
 6. Set - examples
 7. Modules - Exercises
+7. Decorator - 101, Exercises
+7. Decorator - advanced concepts, exercises and examples
 7. Regular Expression
 8. PIP
 9. virtual environment
