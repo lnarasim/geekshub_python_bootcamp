@@ -42,6 +42,7 @@ layout: false
     * Throws error when nonlocal variable not found
 
 ---
+
 # Masking
 * Local variable masks enclosing/global/built-in scopes 
     * When global/nonlocal is not used, the variable is defined
