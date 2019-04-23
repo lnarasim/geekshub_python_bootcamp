@@ -69,3 +69,4 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * Playing with Garbage Collection
 * Function Introspection [[slides](function_introspection.html)]
 * Callables [[slides](callables.html)]
+* Logging
