@@ -57,10 +57,10 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * Class Decorators
 
 ## Other Topics (WIP)
+* Working with JSON [[slides](json/json.html)]
 * Regular Expression
 * Command Line Arguments
 * Playing with Garbage Collection
-* Working with JSON
 
 
 * Function Introspection [[slides](function_introspection.html)]
