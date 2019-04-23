@@ -32,12 +32,10 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * File I/O [[slides](datatypes/fileio.html)]
 * Packing & Unpacking [[slides](datatypes/packing_unpacking.html)]
 
-## Conditionals and Loops
-* TBD
-
 ## Modules and Packages
 * Modules [[slides](modules/modules.html)]
 * Packages [[slides](packages/packages.html)]
+* Python Standard Library - Overview (WIP)
 
 ## Functions and Related
 * Functions [[slides](functions/functions.html)]
@@ -56,12 +54,18 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * Classes [[slides](classes_exceptions/classes.html)]
 * Class Decorators
 
-## Other Topics (WIP)
+## Others
 * Working with JSON [[slides](json/json.html)]
+
+
+## WIP (coming soon)
+## Conditionals and Loops
+* TBD
+
+## Other Topics (WIP)
+
 * Regular Expression
 * Command Line Arguments
 * Playing with Garbage Collection
-
-
 * Function Introspection [[slides](function_introspection.html)]
 * Callables [[slides](callables.html)]
