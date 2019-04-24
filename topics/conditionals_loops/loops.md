@@ -14,7 +14,7 @@ name: inverse
 layout: false
 
 # while and for loops
-* while \<condition>:
+* while condition:
    - iterate over the loop till the condition is true
    - terminate the loop when condition evaluates to false
    - While can have "else". Else block gets executed when while loop executes normally
@@ -36,6 +36,7 @@ layout: false
       ```
 
 ---
+
 # break and continue
 
 * break
@@ -61,7 +62,7 @@ layout: false
 
 ---
 
-# Exercise to Level Up
+# Exercises
 
 1. Define a list that has numbers from 1 to 100 and print them using "for" loop. You have to use iteration using "for" and "in"
 
@@ -76,6 +77,10 @@ layout: false
 
 4. Write a program to find number of times that a number exists in the list assuming that the number is present more than one time.
 
+---
+
+# Exercises
+
 5. Python has built-in function for sorting. But without using it, write a function to sort the list in ascending order. (you will learn nested "for" loop in this)
 
 6. Implement the previous program using while loop.
@@ -89,6 +94,11 @@ layout: false
       - range(1, 100, 3)
       - range(100, 1000, 10)
       - range(10000, 1000000, 100)
+
+---
+
+# Exercises
+
 
 10. Write a function that takes a number and print the table. For example,
       - an input "2", print 2-tables
