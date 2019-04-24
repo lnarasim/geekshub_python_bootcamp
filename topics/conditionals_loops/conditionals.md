@@ -3,8 +3,8 @@ class: center, middle, inverse
 
 ---
 
-# Loops
-with [examples](loops.ipynb)
+# Conditionals
+with [examples](conditionals.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 
@@ -14,20 +14,21 @@ name: inverse
 layout: false
 
 # if, elif, else conditionals
-- if \<condition>:
-- if \<condition>: ... else:
-- if \<condition>: ... elif \<condition> .. elif \<condition>
-- if \<condition>: ... elif \<condition> .. elif \<condition> ... else
+- if condition:
+- if condition: ... else:
+- if condition: ... elif condition: .. elif condition:
+- if condition: ... elif condition: .. elif condition: ... else:
 
 ---
 
-## Conditional Expression or Ternary:
+# Conditional Expression or Ternary
 - Execute an expression using ternary operations
-```python
-#"expression when true" if <condition> else "expression when false"
 
-b = "a > 20" if a > 20 else "a <= 20"
-```
+    ```python
+    #"expression when true" if <condition> else "expression when false"
+
+    b = "a > 20" if a > 20 else "a <= 20"
+    ```
 
 ---
 
@@ -50,6 +51,10 @@ b = "a > 20" if a > 20 else "a <= 20"
         - 60% to 74% - First class
         - greater than 75% - First class with distinction
 
+---
+
+# Exercises (cntd)
+
 4.  Write a program to demonstrate various operations.
         - 5 == 5
         - 5 != 5
@@ -64,6 +69,10 @@ b = "a > 20" if a > 20 else "a <= 20"
 
 6.  Write a program to find whether a given number is a multiple of 5 or a
     multiple of 9.
+
+---
+
+# Exercises (cntd)
 
 7.  Write statements to find out whether the following expressions evaluate to
     True or False.
