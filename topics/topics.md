@@ -32,6 +32,10 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * File I/O [[slides](datatypes/fileio.html)]
 * Packing & Unpacking [[slides](datatypes/packing_unpacking.html)]
 
+## Conditionals and Loops
+* Conditionals [[slides](conditionals_loops/conditionals.html)]
+* Loops [[slides](conditionals_loops/loops.html)]
+
 ## Modules and Packages
 * Modules [[slides](modules/modules.html)]
 * Packages [[slides](packages/packages.html)]
@@ -56,11 +60,6 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 
 ## Others
 * Working with JSON [[slides](json/json.html)]
-
-
-## WIP (coming soon)
-## Conditionals and Loops
-* TBD
 
 ## Other Topics (WIP)
 
