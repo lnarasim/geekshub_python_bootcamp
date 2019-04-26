@@ -28,7 +28,7 @@ layout: false
 # More on Scopes
 * Global
     * Module scope
-    * Visible to only the file
+    * Visible only in the file
 * Local
     * Defined in a function
     * Created when function is called and deleted when function is returned
@@ -48,12 +48,15 @@ layout: false
     * When global/nonlocal is not used, the variable is defined
 * Global masks built-in
 
+---
+
 # Scope Resolution
 * No keywords (used in RHS assgined to another variable) 
     * Local -> Enclosing Local -> Global -> Built-in
 * No keywords (used in LHS) - masks the previous scopes
 * global - uses global and built-in
 * nonlocal - uses one of the variables in enclosing function but not global
+* Variable names once created in scope, never disappears until the scope/namespace is deleted
 
 ---
 
