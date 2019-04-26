@@ -179,7 +179,16 @@ f = print, f(1, 2, 3))
 
 # Exercises
 
-* WIP
+1. Implement an incrementor using closure. The outer function should take two arguments (starting value and step) and should return an inner function which will actually increment. The increment (inner function) should increment every time it is called
+
+2. Implement a simple timer.  The outer function should record start time. The inner function should return time elapsed whenever the inner function is called
+
+3. Implement a simple iterator. Given a list to outer function, the itertor should return next element from the list.
+
+4. Implement a Python program using closure to print the mathematical table (2nd table, 3rd table)
+
+5. For all the above programs, print the values of \_\_closure\_\_ and free variables
+
 
 ---
 layout: true
