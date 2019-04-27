@@ -150,22 +150,22 @@ layout: false
 
 # PEP8 - Code Style Guide
 * Packages - short, all lowercase, no underscores
-   * ```fractions, decimal, math```
+   * fractions, decimal, math
 * Modules - short, all lowercase, underscores are allowed
 * Classes - CamelCase
-   * ```BankAccount, EmployeeDetails```
+   * BankAccount, EmployeeDetails
 * Functions - snake_case
-   * ```deposit(), get_employee_details(), write_to_db()```
+   * deposit(), get_employee_details(), write_to_db()
 * Variables - snake_case
-   * ```temperature_far, temperature_cel```
+   * temperature_far, temperature_cel
 * Constants - ALL CAPS
-   * ```IP_ADDRESS, PORT_NUMBER, CUSTOMER_ID```
+   * IP_ADDRESS, PORT_NUMBER, CUSTOMER_ID
     
 ---
 
 # Comments
 * Anything that comes after # is comment
-* Cosidered comment from # to end of line
+* Considered comment from # to end of line
 * Comments are stripped off during compilation
 
 ---
