@@ -14,6 +14,7 @@
 
 ## Topics
 6. Set - examples
+7. Named Tuples (additional)
 7. Modules - Exercises
 7. Decorator - 101, Exercises
 7. Decorator - advanced concepts, exercises and examples
