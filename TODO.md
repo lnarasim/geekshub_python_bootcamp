@@ -38,6 +38,7 @@
 19. MongoDB/MySQL
 19. CI/CD - Overview
 21. Git/GitHub
+22. https://realpython.com/courses/python-requests/
 
 ## Exercises to be added later:
 1. Use decorator to print mathematics table we learnt in first standard
