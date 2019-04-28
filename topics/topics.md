@@ -48,7 +48,7 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * Lambda [[slides](functions/lambda.html)]
 * Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
 * List Comprehension [[slides](functions/list_comprehension.html)]
-* Callables
+* Callables [[slides](functions/callables.html)]
 * Scopes [[slides](functions/scopes.html)]
 * Closures [[slides](functions/closures.html)]
 * Decorators - Simple and Easy [[slides](functions/decorators.html)]
