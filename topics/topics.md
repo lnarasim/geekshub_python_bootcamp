@@ -4,7 +4,7 @@ This is the home page of our Python/Cloud Bootcamp. If you want to be a full sta
 
 Go over this presentation for quick five minutes before moving further.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxR_JnAiAnc15gTMTh2JGwgaA-kWcQDbODUSAqSNi8jOeg04pggKzV8L8pJBFLWJgZx2EUvBopEa3w/embed?start=true&loop=true&delayms=10000" frameborder="0" width="80%" height="50%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxR_JnAiAnc15gTMTh2JGwgaA-kWcQDbODUSAqSNi8jOeg04pggKzV8L8pJBFLWJgZx2EUvBopEa3w/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Steps to follow
 1. Attend the class
