@@ -75,7 +75,23 @@ layout: false
 
 15. Write using nested list comprehension
 
-14. __Revise this after two weeks__
+16. Given the lengths and breadths of the rectangle as lists, write a list comprehension to find areas of the rectangle
+    * Input: lengths = [2, 4, 5, 6] and breadths = [5, 6, 7, 8]
+    * Output: areas = [10, 24, 35, 48]
+
+17. Given the bases and heights of the triangle, write a list comprehension to find the areas of the triangles.
+    * Inputs: bases = [1, 2, 3, 4, 5] and heights = [6, 8, 9, 20, 30]
+    * Output: areas = [3, 8, 13.5, 40, 75]
+
+---
+
+# Exercises (cntd)
+
+18. Given a list of positive integers, write a program that returns a list of prime numbers that comes immediately after the numbers
+    * Input: numbers = [2, 3, 4, 5, 6]
+    * Output: next_primes = [3, 5, 5, 7, 7]
+
+19. __Revise this after two weeks__
 
 ---
 

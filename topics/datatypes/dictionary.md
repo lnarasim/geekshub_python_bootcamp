@@ -187,7 +187,7 @@ print(kw_dict)
 
 ```python
 print("The keys in the dictionary are:")
-for key in kw_dict.keys():
+for key in kw_dict.keys(): # this is same as for key in kw_dict:
     print(key)
 
 print()
