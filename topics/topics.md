@@ -49,6 +49,7 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
 * List Comprehension [[slides](functions/list_comprehension.html)]
 * Callables [[slides](functions/callables.html)]
+* Function Introspection [[slides](functions/function_introspection.html)]
 * Scopes [[slides](functions/scopes.html)]
 * Closures [[slides](functions/closures.html)]
 * Decorators - Simple and Easy [[slides](functions/decorators.html)]
@@ -67,6 +68,5 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * Regular Expression
 * Command Line Arguments
 * Playing with Garbage Collection
-* Function Introspection [[slides](function_introspection.html)]
 * Callables [[slides](callables.html)]
 * Logging
