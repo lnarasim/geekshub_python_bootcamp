@@ -21,7 +21,7 @@ layout: false
 * Syntax:
 
     ```python
-    lambda \<parameter list\> : \<expression evaluated and returned\>
+    lambda [parameter list] : <expression evaluated and returned>
     ```
 ---
 
@@ -78,7 +78,36 @@ layout: false
 
 6. Write a lambda to check whether or not given number is multiple of 3 and multiple of 7
 
+7. Write a lambda that does not take any arguments but returns the current time
+
 ---
+
+# Exercises (cntd)
+
+8. Write a lambda that takes one positional arguments and variable number of positional arguments. Finds the sum of the arguments and returns it
+
+9. Write a lambda that takes default values
+
+10. Write a lambda that takes two keyword only arguments one with default values, another without defaults and print them all
+
+11. Write  a lambda that takes positional arguments, variable positional arguments, keyword only args, variable keyword only args and print the arguments
+
+12. Write a program using lambda that sorts of strings based on the length of the strings and returns a new list
+        * Input: ['aaaa', 'aaa', 'b', 'aa']
+        * Output: ['b', 'aa', 'aaa', 'aaaa']
+
+---
+
+# Exercises (cntd)
+
+13. Write a program using lambda to sort a list of strings. The sorting should be case insensitive
+
+14. A dictionary has a set of keys and values. The keys are names of the students and values are their average scores. Write a program using lambda that displays the names and scores of the students as tuples that are sorted based on scores (the highest score comes first)
+
+15. Given a list of objects, randomize the list (using sorted and random.random())
+
+---
+
 layout: true
 class: center, middle, inverse
 
