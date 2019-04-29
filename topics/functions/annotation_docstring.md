@@ -15,10 +15,8 @@ layout: false
 
 # Docstring (PEP 257)
 * The docstring or documentation string
-* Typically used by developer to know more
-* help(x)
+* Typically used by developer to know more - help(x)
 * This is not comment
-* PEP 257
 * Comments are omitted by compiler
 * Docstring are metadata of Python code
 
@@ -29,22 +27,24 @@ layout: false
 * It is string or multiline string
 * No statements can be present above docstring
 * Comments can be above docstring
-* Stored in object's \_\_doc\_\_ attributes
+* Stored in object's \_\_doc\_\_ attribute
 
 ---
 
 # Function Annotation (PEP 3107)
 * Documentation on parameters and return values
-* It is expression
-* Expression can include function call (but it is evaluated when function is loaded to memory)
+* It is an expression
+* Expression can include function call (but it is evaluated when function is defined and loaded to memory)
 * It can be following
     - Datatypes
     - String and multiline strings
     - Objects
     - Function call
 * Stored in object's \_\_annotations\_\_
+* Default values of the parameters come after the annotations
 * Stored as dictionary (keys are parameter names, return is key for return values)
 * Does not affect code
+
 
 ---
 
