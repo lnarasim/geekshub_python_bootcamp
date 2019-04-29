@@ -14,17 +14,27 @@ name: inverse
 layout: false
 
 # Map, Filter, Zip
-* Higher order functions
+* Map and Filter are Higher order functions
 * Map
     * Returns an iterator that calculates the function applied to each element of the iterables
+    * Applies the function in parallel
+    * Returns an iterator
+    * Iterator stops as soon as at least one of the iterables is exhausted
     * map(fn, *iterables)
 
 * Filter
+    * Determines whether to retain or throw the element from resultant iterator
     * Run and return an iterable when it satifies a condition
     * If function is None, it returns based on Truth value of the object
+    * If functions returns True, the object is added to iterator
+    * filter returns an iterator
+    * filter(func, iterable)
 
 * Zip 
     * Returns an iteratble with each element of iterables as tuple
+    * zip is not an higher order function
+    * Stops at shortest iterable
+    * zip(*iterables)
 
 ---
 
@@ -168,6 +178,22 @@ layout: false
     * output should be [123.60000000000014, 621.5920200000005, 1877.3123072000026, 3385.500554205004]
 
 19. Calculate simple interest for the previous problem using map/filter
+
+---
+
+# Exercises (cntd)
+
+20. Write a simple zip function that returns the object in a list and respective index (mimic enumerate)
+
+21. Take five strings of different sizes and write a zip function on those five strings.
+
+22. What is the output of the following:
+    ```python
+    l1 = [1, 2, 3]
+    l2 = []
+    map(lambda x, y: x + y, l1, l2)
+
+    ```
 
 ---
 
