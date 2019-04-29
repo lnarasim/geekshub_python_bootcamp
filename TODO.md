@@ -13,6 +13,7 @@
 4. Virtualization
 
 ## Topics
+6. Function Introspection - Exercises
 6. Set - examples
 7. Named Tuples (additional)
 7. Modules - Exercises
