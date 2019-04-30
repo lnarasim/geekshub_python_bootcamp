@@ -13,13 +13,14 @@
 4. Virtualization
 
 ## Topics
+7. Decorator - 101, Exercises
 6. Function Introspection - Exercises
-6. Reducing Funtions - Notes and Exercises
-6. Partial Functions - Notes and Exercises
+6. Reducing Funtions - Exercises
+6. Partial Functions - Exercises
+6. Operators - Notes and Exercises
 6. Set - examples
 7. Named Tuples (additional)
 7. Modules - Exercises
-7. Decorator - 101, Exercises
 7. Decorator - advanced concepts, exercises and examples
 7. Regular Expression
 8. PIP
@@ -55,3 +56,5 @@
 4. Dictionary examples
 5. Set - slides
 6. Modules - Slides
+6. Reducing Funtions - Notes
+6. Partial Functions - Notes
