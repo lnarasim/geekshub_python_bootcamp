@@ -14,6 +14,8 @@
 
 ## Topics
 6. Function Introspection - Exercises
+6. Reducing Funtions - Notes and Exercises
+6. Partial Functions - Notes and Exercises
 6. Set - examples
 7. Named Tuples (additional)
 7. Modules - Exercises

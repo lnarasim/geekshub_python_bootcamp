@@ -50,6 +50,7 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * List Comprehension [[slides](functions/list_comprehension.html)]
 * Callables [[slides](functions/callables.html)]
 * Function Introspection [[slides](functions/function_introspection.html)]
+* Reducing Functions [[slides](functions/reducing_functions.html)]
 * Scopes [[slides](functions/scopes.html)]
 * Closures [[slides](functions/closures.html)]
 * Decorators - Simple and Easy [[slides](functions/decorators.html)]
