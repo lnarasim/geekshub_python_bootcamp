@@ -50,6 +50,18 @@ layout: false
     ```
 ---
 
+# Functions again
+* Functions are object (everything is object in Python)
+* Function names are like variable name
+* When "def" keyword is parsed, Python creates a function object, assign the name to it and puts the code in the code object
+* Function is a datatype
+* lambda is an anonymous function
+* Function needs to defined before they are __invoked__ (obvious)
+
+---
+
+# Beware: Another ride, that might be __confusing__
+
 # Positional Parameters
 * Function can have one or more parameters
     ```python

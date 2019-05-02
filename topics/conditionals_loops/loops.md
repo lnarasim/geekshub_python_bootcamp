@@ -13,27 +13,14 @@ with [examples](loops.ipynb)
 name: inverse
 layout: false
 
-# while and for loops
-* while condition:
-   - iterate over the loop till the condition is true
-   - terminate the loop when condition evaluates to false
-   - While can have "else". Else block gets executed when while loop executes normally
-   - do.. while() loops is not there in Python
-
----
-
-* for loop
-   - for iterates over iterable objects
-   - Not same as while loop
-   - iterable is object that is capable of returning values one at a time
-      ```python
-      for i in range(5):
-      for element in elements: # elements is a list
-      for character in "Hello"
-      for element in (1,2,3,4,5)
-      for tup in [(1,2), (3,4), (5,6)]
-      for a, b in [(1,2), (3,4), (5,6)] # with unpacking
-      ```
+# while
+* Execute a block of code when a condition is True
+* Repeat till the condition is True
+* Exit out of the loop when the condition becomes False
+* While has optional else block
+* else block run when "while" loop exits normally
+      * Does not run when the control exits out of the loop using break
+* Python does not have do...while
 
 ---
 
@@ -45,9 +32,9 @@ layout: false
 * continue
    - skips the current iteration and goes to the starting of the loop
 
-* break and continue inside finally block
-   - finally block is always executed irrespective
-      ```python
+* break/continue inside try block
+   * Always executes "finally" block even if there is a break/continue
+    ```python
       a = 1
       b = 0
       while True:
@@ -60,6 +47,24 @@ layout: false
                   print("This always gets executed")
       ```
 
+---
+
+* for loop
+   - for iterates over iterable objects
+   - Not same as while loop
+   - iterable is object that is capable of returning values one at a time
+      ```python
+      for i in range(5):
+      for element in [1, 2, 3, 4, 5]: # elements is a list
+      for character in "Hello": 
+      for element in (1,2,3,4,5):
+      for tup in [(1,2), (3,4), (5,6)]:
+      for a, b in [(1,2), (3,4), (5,6)] # with unpacking
+      for index, element in enumerate([1, 2, 3, 4, 5])
+      ```
+   - break/continue/else works similar to while loop
+   - finally executes even when there is a break or continue in a try..except..finally
+   
 ---
 
 # Exercises
