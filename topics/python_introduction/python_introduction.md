@@ -185,15 +185,26 @@ layout: false
 * Text written between two triple single quotes
 * Standard string object
 * Compiled in by the compiler
-* Special cases: Annotations and Docstring
+* These are not comments
+* Use any operations that is supported in string (like format, formatted string)
+* Commonly used for Docstring
 
 ---
 
 # Multiline Statements
 * Physical lines of code
 * Logical lines of code
-* Implicit line continuation
+* Implicit line continuation (lists, tuples, sets, dictionaries, function parameters and arguments)
+   * Can span across multiple lines
+   * Supports inline comments
+   * Ensure that you dont accidently comment a valid code
+      ```python
+      l = [1, 2 #item2, 
+            3, 4 #item4]
+      ```
 * Explicit line continuation (use \\)
+   * Use \\ to denote the line is continuing to next line
+   * Does not support inline comments
 
 ---
 

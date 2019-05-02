@@ -35,42 +35,32 @@ layout: false
 
 ---
 
-# Type of Types (1/3)
-* Integral and non-integral
-* Mutable and immutable
-* Sequences, Sets, Mappings
+# Type of Types (1/2)
+* Numbers
+    * Integral
+        * integer
+        * bool
+    * Non-integral
+        * float
+        * Complex
+        * Decimals
+        * Fractions
+* Collections
     - Sequences - list, strings, tuple
     - Sets - Set and FrozenSet
     - Mapping - dictionary
-    - Callables
-       - Functions, Generators, Classes, 
-       - Instance Methods, Class instances, 
-       - Builtin functions
-    * Singleton
-        - None, NotImplemented, Ellipsis
+    - Mutable and immutable
+* Callables
+    - Functions, Generators, Classes
+    - Instance Methods, Class instances, 
+    - Builtin functions
+    - Built-in methods
+* Singleton
+    - None, NotImplemented, Ellipsis
 
 ---
 
-# Type of Types (2/3)
-- Types of built-in types
-    * Numbers
-        - integer
-        - float
-        - complex number
-        - Decimal
-        - Fraction
-    * String
-    * Lists
-    * Dictionaries
-    * Tuples
-    * Files
-    * Sets
-    * Boolean
-    * None
-
----
-
-# Type of Types (3/3)
+# Type of Types (2/2)
 * Program unit types
     - Funtions, Modules, Classes
 * Implementation related types
