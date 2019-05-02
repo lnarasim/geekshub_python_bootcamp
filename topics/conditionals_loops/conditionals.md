@@ -18,18 +18,25 @@ layout: false
 - if condition: ... else:
 - if condition: ... elif condition: .. elif condition:
 - if condition: ... elif condition: .. elif condition: ... else:
+- elif and else are optional
+- if conditionals can be nested
 
 ---
 
 # Conditional Expression or Ternary
-- Execute an expression using ternary operations
-
+- Evaluate an expression using ternary operations
     ```python
     #"expression when true" if <condition> else "expression when false"
 
     b = "a > 20" if a > 20 else "a <= 20"
     ```
-
+- Can be nested
+    ```python
+        a = 10
+        b = 12
+        c = 8
+        greatest = a if a > b and a > c else b if b > c else c
+    ```
 ---
 
 # Exercises

@@ -135,6 +135,8 @@ layout: false
 * starts with _ (underscore), alphabet
 * followed by _, alphabet, numbers
 * cannot be keywords or reserved words
+* Any number of characters
+* Case sensitive
 
 ---
 
@@ -161,6 +163,10 @@ layout: false
 * Constants - ALL CAPS
    * IP_ADDRESS, PORT_NUMBER, CUSTOMER_ID
     
+---
+
+## Write code that is __READABLE__, __CONSISTENT__ and __STANDARDIZED__
+
 ---
 
 # Comments
