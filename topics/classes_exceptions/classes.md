@@ -207,7 +207,7 @@ layout: false
 ---
 
 # Property Decorators
-- Use \_\_private_variable (convention for class mangling)
+- Use \_private_variable (convention for class mangling)
 - @property (getter)
 - @propertyname.setter
 - @propertyname.deleter
