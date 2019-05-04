@@ -20,7 +20,7 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 
 ## Python Intro and Datatypes
 * Python Introduction [[slides](python_introduction/python_introduction.html)]
-* Garbage Collection [[slides](python_introduction/garbage_collection.html)]
+* Variables, Memory, Objects [[slides](python_introduction/variables_memory_objects.html)]
 * Datatypes [[slides](datatypes/datatypes.html)]
 * Int [[slides](datatypes/int.html)]
 * Float [[slides](datatypes/float.html)]

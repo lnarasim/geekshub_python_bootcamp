@@ -125,9 +125,10 @@ layout: false
 ---
 
 # Variables
- - It is the name given to an object
+ - It is the name given to an object (ex: account_id)
  - It is an alias referring to an object
- - Very much like human having names, some of us have an official name at school/college/office and probably another name at home. But still the same person
+ - Variables are memory addresses and point to certain object in Python's heap
+ - Use "id(account_id)" to know the memory address they point to
 
 ---
 
