@@ -118,6 +118,21 @@ layout: false
 
 ---
 
+# Python Optimizations
+* Integer interning (-5 to 256)
+* String interning (identifier like objects are interned)
+* sys.intern to intern strings
+* Peephole optimizations
+    * Constants expressions are optimized at compile time
+    * Short sequences lesser than 20 are interned
+    * Mutable types are replaced by immutable types when mutable types are used in membership tests
+        * list to tuple
+        * set to frozenset
+    * my_func.\_\_code\_\_.co_consts
+* Membership tests of set is much faster than lists/tuple
+
+---
+
 # Exercises 
 
 ---
