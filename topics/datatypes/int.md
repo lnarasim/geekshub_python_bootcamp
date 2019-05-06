@@ -14,10 +14,10 @@ name: inverse
 layout: false
 
 # Numbers
-* Integers
-* Rational numbers
-* Real numbers
-* Complex numbers
+* Integers (int)
+* Rational numbers (Fractions)
+* Real numbers (float or decimal)
+* Complex numbers (complex)
 
 ---
 
@@ -40,6 +40,7 @@ layout: false
    - 8 bit notation
    - Sign bit
    - 7 bits sequence
+   - (-128) to 127
 
 ---
 
@@ -52,6 +53,7 @@ layout: false
 * Seamless to us
 * It has overhead
 * Large number use more memory
+* Really large numbers take time to perform mathematical operations
 
 ---
 # Integer airthmetic operations
