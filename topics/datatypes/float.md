@@ -3,6 +3,43 @@ class: center, middle, inverse
 
 ---
 
+# Datatype - Fractions
+with [examples](fractions.ipynb)
+## [GeeksHub](http://www.geekshub.in)
+### [info@geekshub.in](mailto:info@geekshub.in)
+
+---
+
+name: inverse
+layout: false
+
+# Datatype - Fractions
+* Any number that is finite number of digits
+* Has numerator and denominator. Numerator and denominator are integers
+* Examples:
+      * 8.3/1.4, 1/2, 3/10
+
+---
+
+# Fraction in Python
+* Instantiation using several ways
+      * Fraction(3, 5)
+      * Fraction ("3/5")
+      * Fraction(numerator=3, denominator=5)
+      * Fraction("0.125")
+      * Fraction(Decimal("0.3"))
+* Negative sign is attached to numerator
+* Automatically reduced (6/10 -> 3/5)
+* Arithmetic operators can be used (which evaluates to fraction)
+* Constraining denominator using Fraction.limit_denominator()
+
+---
+
+layout: true
+class: center, middle, inverse
+
+---
+
 # Datatype - Float
 with [examples](float.ipynb)
 ## [GeeksHub](http://www.geekshub.in)
