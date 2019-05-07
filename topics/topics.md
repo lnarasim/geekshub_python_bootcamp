@@ -67,6 +67,9 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 ## Others
 * Working with JSON [[slides](json/json.html)]
 
+### Python Tools
+* pip [[slides](python_tools/pip.html)]
+
 ## Other Topics (WIP)
 
 * Regular Expression
