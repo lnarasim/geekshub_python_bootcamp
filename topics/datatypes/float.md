@@ -89,6 +89,14 @@ layout: false
 * Exponent (or raised to the power)
 
 ---
+
+# Issues with float
+* All fractionals cannot be represented in finite number of bits (1/3, sqrt(2))
+* All numbers that can be represented as finite number in decimal cannot be represented in finite numbers in binary (Ex: 1/10)
+* These causes issues in floats (needing us to approximate)
+
+---
+
 # Some Math functions
 * math.trunc()
 * math.floor()
@@ -101,10 +109,21 @@ layout: false
 # Equality Testing Problems
 * a = 0.1 + 0.1 + 0.1, b = 0.3. a == b fails
 * Not Python's issue (floating point precision issue)
-* Absolute tolerance
-* Relative tolerance
+* Absolute tolerance (are the numbers nearer in absolute magnitude)
+* Relative tolerance (are the number nearer comparing the % from the highest number)
 * math.isclose
 
+---
+
+# Coercing floats to ints
+* Data loss (10.4 to 10)
+* Truncation (math.trunc) - removes the decimal point
+* ceiling (math.ceil) - Smallest integer that is greater than or equals x
+* floor (math.floor) - Largest integer that is less than or equals x
+* round
+      * banker's round
+      * Rounding can be before or after the decimal point
+      * correct way to round: sign(x) * int(abs(x) + 0.5)
 
 ---
 

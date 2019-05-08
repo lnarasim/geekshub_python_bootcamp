@@ -52,7 +52,7 @@ layout: false
       * Variable number of bits
 * Seamless to us
 * It has overhead
-* Large number use more memory
+* Large number uses more memory
 * Really large numbers take time to perform mathematical operations
 
 ---
