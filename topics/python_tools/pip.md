@@ -52,6 +52,28 @@ layout: false
 
 # Exercises
 
+1. Install "requests" using pip
+
+2. Upgrade a package that is already installed in the system
+
+3. Display all the installed packages
+
+4. Display all the installed packages in requirements format
+
+5. Install packages through requirements.txt
+
+6. Unstall a package
+
+7. Show information about a package.
+
+---
+
+# Exercises (cntd)
+
+8. Identify the list of dependencies for "requests" package
+
+9. Use import to verify whether the packages are installed properly
+
 ---
 
 layout: true
