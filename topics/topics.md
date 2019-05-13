@@ -69,6 +69,7 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 
 ### Python Tools
 * pip [[slides](python_tools/pip.html)]
+* venv [[slides](python_tools/venv.html)]
 
 ## Other Topics (WIP)
 
