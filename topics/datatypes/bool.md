@@ -16,8 +16,8 @@ layout: false
 # Boolean
 * Two values - __True__ or __False__
 * bool is a subclass of int
-* True and False are singleton objects
-* All operations that can be performed on int can be performed on bool
+* True and False are singleton objects (is and == can be used interchangebly)
+* All operations that can be performed on int can be performed on bool (very weird?)
 * [PEP 285](https://www.python.org/dev/peps/pep-0285/)
 
 ---
@@ -103,7 +103,7 @@ layout: false
 ---
 
 # Operators and Precedence
-* ()
+* () - when in doubt, use (). It improves the readability of the code
 * <, \>, <=, >=, ==, !=, in, is
 * not
 * and

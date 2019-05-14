@@ -87,21 +87,6 @@ layout: false
 
 ---
 
-# Basic Data Types [int, float, string] - refresher
-
-- int, float, boolean, string
-- int - any number without decimal point
-- float - any number with a decimal point
-- boolean - True or False
-- all primitive types of immutable
-- Python detects data type automatically based on the value
-   * a = 10 (a will be of type "int")
-   * a = 10.0 (a will be of type "float")
-   * a = True (a will be of type "bool")
-   * a = "hello" (a will be of type "str")
-
----
-
 # Exercises (Cntd)
 
 1. Define a whole number (integer) and print it

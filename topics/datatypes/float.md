@@ -127,6 +127,86 @@ layout: false
 
 ---
 
+layout: true
+class: center, middle, inverse
+
+---
+
+# Datatype - Decimal
+with [examples](decimal.ipynb)
+## [GeeksHub](http://www.geekshub.in)
+### [info@geekshub.in](mailto:info@geekshub.in)
+
+---
+
+name: inverse
+layout: false
+
+# Datatype - Decimal
+* float's problem of precision to avoid apporximation.
+* Effective in handling finite number of significant digits
+* Problem still exist (for numbers that cannot be expressed in finite number of digits in decimal)
+* why decimal, why not fraction: overhead for memory and CPU for calculation (note how two fractions are added)
+* Why do we care: Bandking, finance - issues occur due to loss of precision of floats
+
+---
+
+# Decimal - usage
+* All decimal functions reside in "decimal" module
+* Decimal is the class
+* Decimal has context - global/module and local context
+* Decimal context has - precision and rounding
+* Global and local context can be changed 
+
+---
+
+# Decimal - Instantiation
+* Decimal(x)
+* x can be the following
+  * integer
+  * float - beware, you will get the same problem of loss of precision
+  * string - should be used as default way
+  * fraction
+  * Another decimal object
+  * tuple (sign, (significant digits), exponent)
+* Context affects only the mathematical operations but not object instantiation
+* // and % behaves different (// performs truncation but the equation is maintained)
+
+---
+
+# Decimal - Pitfalls
+* Not easy to code as float
+* More tedious to create object
+* Not all mathematical functions exists in decimals
+* % and // behaves differently
+* More memory overhead
+* Operations run a lot slower than floats
+
+---
+
+layout: true
+class: center, middle, inverse
+
+---
+
+# Datatype - Complex
+with [examples](complex.ipynb)
+## [GeeksHub](http://www.geekshub.in)
+### [info@geekshub.in](mailto:info@geekshub.in)
+
+---
+# Datatype - Complex
+* Models complex numbers
+* Creating objects - complex(2, 3), 2+3j, 2 + 3J
+* Has real and imaginary parts
+* Magnitude of real and imaginary parts are stored as float
+* Arithmetic operators supported: +, -, /, *, **, ==, !=
+* Operators that do not work: //, %, <, >, <=, >=
+* math module functions will not work, use cmath instead
+
+---
+
+
 
 # Exercises (Cntd)
 
