@@ -93,6 +93,7 @@ layout: false
 * Positional argumentes with default values can be omitted by caller
 
 ---
+
 # Calling a function with Arguments
 * Arguments must be passed for all mandatory positional parameters
 * Arguments that has default values defined can be omitted.

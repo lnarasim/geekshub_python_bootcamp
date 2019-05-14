@@ -195,6 +195,10 @@ with [examples](complex.ipynb)
 ### [info@geekshub.in](mailto:info@geekshub.in)
 
 ---
+
+name: inverse
+layout: false
+
 # Datatype - Complex
 * Models complex numbers
 * Creating objects - complex(2, 3), 2+3j, 2 + 3J
