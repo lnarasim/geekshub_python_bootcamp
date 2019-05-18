@@ -32,6 +32,7 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * Tuple [[slides](datatypes/tuple.html)]
 * Dictionary [[slides](datatypes/dictionary.html)]
 * Set [[slides](datatypes/set.html)]
+* Named Tuple [[slides](datatypes/named_tuple.html)]
 * File I/O [[slides](datatypes/fileio.html)]
 * Packing & Unpacking [[slides](datatypes/packing_unpacking.html)]
 

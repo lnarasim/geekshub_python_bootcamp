@@ -14,6 +14,9 @@ name: inverse
 layout: false
 
 # Tuples in Python
+* Container
+* Ordered (Order matters), position has meaning
+* Heterogenous
 - Immutable
 - Iterable
 - Same as lists but immutable
@@ -44,6 +47,17 @@ layout: false
     'world'
     >>>
 ```
+
+# Immutability of Tuple
+* Elements cannot be added or removed from Tuple after creation
+* Order of elements cannot be changed
+* Works well for representing data structure, data record
+
+# Extracting Data
+* Indexing
+* Slicing
+* Unpacking
+* Iterating
 
 ---
 
