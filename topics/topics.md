@@ -81,4 +81,4 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * Logging
 
 ## Mini-projects
-* [Analysis and Visualizations of Urban Accidents in India States](/mini-projects/urban_accidents/Urban_accidents_India_Data_graphs.ipynb)
+* [Analysis and Visualizations of Urban Accidents in India States](/geekshub_python_bootcamp/mini-projects/urban_accidents/Urban_accidents_India_Data_graphs.ipynb)
