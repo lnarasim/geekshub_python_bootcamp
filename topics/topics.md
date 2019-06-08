@@ -80,5 +80,8 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * Callables [[slides](callables.html)]
 * Logging
 
+## Python Intermediate Problems
+* [Python Intermediate Problems for Practice](python_intermediate_problems.md)
+
 ## Mini-projects
 * [Analysis and Visualizations of Urban Accidents in India States](/geekshub_python_bootcamp/mini-projects/urban_accidents/Urban_accidents_India_Data_graphs.ipynb)
