@@ -107,4 +107,20 @@ This page contains some questions that are usually asked to understand whether s
 86. How will you find the list of variables available in local scope?
 87. How will you find the list of variable available in global scope?
 88. What is sys.modules?
-89. 
+89. What is reference counting?
+90. What is interning?
+91. What are the drawbacks of float?
+92. Where are the objects created in Python?
+93. Who manages the object life cycle in Python?
+94. What is circular reference?
+95. What is dynamic typing?
+96. What is static typing?
+97. Is Python static or dynamic typed language?
+98. What is shared reference
+99. If a is b True, then a == b. Why?
+100. If a is not b True, then a == b need not be True. Why?
+101. What is the special method to be implemented for "in" and "not in" operator to work on custom objects
+102. What is the type of "None"
+103. How will you find type of an object?
+104. How will you find the type of an object programmatically?
+105. 
