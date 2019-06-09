@@ -123,4 +123,4 @@ This page contains some questions that are usually asked to understand whether s
 102. What is the type of "None"
 103. How will you find type of an object?
 104. How will you find the type of an object programmatically?
-105. 
+105. What is the latest version of Python?
