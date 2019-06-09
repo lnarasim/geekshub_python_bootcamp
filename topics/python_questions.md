@@ -51,3 +51,35 @@ This page contains some questions that are usually asked to understand whether s
 30. What is context manager?
 31. What happens when a "with" statement is executed?
 32. What are important methods to be implemented to create a new context manager?
+33. What is default mode when you open a file?
+34. How will you move the file pointer to 100th byte in a file?
+35. How will you move the file pointer to beginning of the file?
+36. How will you write the bytes to the file that remain in buffer?
+37. How will you open a file in binary mode?
+38. When will you open a file in binary mode?
+39. What are identity operators?
+40. What are membership operators?
+41. How will you find the memory location of an object?
+42. What is pass by reference?
+43. What is slicing?
+44. What is namedtuple?
+45. What is packing, unpacking?
+46. What is extended unpacking?
+47. What are parameters and what are arguments?
+48. What are various types of function parameters available in Python?
+49. How will you specify default values for parameters?
+50. What is anoynomous functions?
+51. What is list comprehension?
+52. What is generator expression?
+53. Explain the functionality of map function? Where you will use it? Give examples
+54. Explain the functionality of filter function? Where you will use it? Give examples
+55. Explain the functionality of zip function? Where you will use it? Give examples
+56. If there is no return statement in a function, what is the default value returned by the function?
+57. What is the functionality of break and continue?
+58. When does "else" block invoked in while, for and try blocks?
+59. What are various ways of handling exceptions in Python?
+60. Create a new exception class
+61. Explain about try, except, finally, else block using single example
+62. Catching a generic exception is a very bad idea. Why?
+63. What happens when no function catches specific exception?
+64. 
