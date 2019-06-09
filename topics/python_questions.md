@@ -82,4 +82,29 @@ This page contains some questions that are usually asked to understand whether s
 61. Explain about try, except, finally, else block using single example
 62. Catching a generic exception is a very bad idea. Why?
 63. What happens when no function catches specific exception?
-64. 
+64. What is PEP?
+65. What is PEP 8?
+66. What is Pytest? Have you used it?
+67. What is unit testing? How will you unit test your code?
+68. Have you used any static analysis tool?
+69. Have you used any code style checker?
+70. How will you debug your code?
+71. What are packages?
+72. What are modules?
+73. How will you create your own module?
+74. How will you import others' module?
+75. What is sys.path and PYTHONPATH?
+76. How will you install new packages in your system?
+77. How will you update packages in your system?
+78. How will you remove packages from your system?
+79. How will you get the list of installed packages in your system?
+80. What is virtual environment in Python
+81. What is the need of virtual environment?
+82. What are reducing functions
+83. What are partial functions
+84. Explain Python's sorted function with examples
+85. What is function introspection?
+86. How will you find the list of variables available in local scope?
+87. How will you find the list of variable available in global scope?
+88. What is sys.modules?
+89. 
