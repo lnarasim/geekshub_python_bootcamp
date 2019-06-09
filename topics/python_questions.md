@@ -1,5 +1,7 @@
 ### Python Questions
-This page contains some questions that are usually asked to understand whether someone has familiarity on the subject.
+This page contains some questions in Python. Think through and answer these. These questions will probably let you think and reinforce the learning. Discuss these questions with your friends/batchmates and debate on answers. These questions are typically asked in most interviews.
+
+Anyone exposed to Python for more than six months should be able to answer most of the questions.
 
 1. What is Python Virtual Machine
 2. What is Python Interpreter
