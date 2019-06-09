@@ -126,3 +126,20 @@ Anyone exposed to Python for more than six months should be able to answer most 
 103. How will you find type of an object?
 104. How will you find the type of an object programmatically?
 105. What is the latest version of Python?
+106. What is the method that gets called before calling init method during object creation?
+107. What are rules of using global or nonlocal variable in function?
+108. What happens when a variable is not specified as nonlocal or global but a value is assigned?
+109. What is cell in the context of closure/nonlocal scope?
+110. What are free variables?
+111. What are the helper functions used to know the following.
+    * values of various attributes of an object
+    * various attributes of an object
+    * to know more information on function or method
+
+112. Who created Python? What is his name?
+113. What are annotations? How they are represented in Python?
+114. How annotations are stored in Python?
+115. What are docstring and how they are specified?
+116. How to write docstring for function, method, class and module
+117. How docstring is stored in Python?
+118. 
