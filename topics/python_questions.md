@@ -34,4 +34,20 @@ This page contains some questions that are usually asked to understand whether s
 13. What are the methods that Python use to determine the truthyness of the objects?
 14. Why do we say that the functions are first class citizens?
 15. What is data type?
-16. What are various data types
+16. What are various primitive data types available in Python?
+17. What is size of int?
+18. What is size of float?
+19. What are various data structures available in Python?
+20. What are sequences?
+21. What are mappings?
+22. What is sequence protocol?
+23. What is iterator protocol?
+24. What is iterable protocol?
+25. What are global, local and nonlocal scopes in Python? Give examples of each
+26. What are closures?
+27. What is decorator?
+28. Write a decorator to measure the running time of a function?
+29. What are getters, setters and deleters? How will you implement getters, setters and deleters?
+30. What is context manager?
+31. What happens when a "with" statement is executed?
+32. What are important methods to be implemented to create a new context manager?
