@@ -142,4 +142,21 @@ Anyone exposed to Python for more than six months should be able to answer most 
 115. What are docstring and how they are specified?
 116. How to write docstring for function, method, class and module
 117. How docstring is stored in Python?
-118. 
+118. We know that a function can take two types of parameters (with two sub-types) along with default values. What are rules with respect order of such types of parameters?
+119. What does "*" in function parameter signify?
+120. If you have a try...finally block in a while loop and if you break out of the loop. Does finally block gets executed?
+121. In the context of decorators, what is the functionality of wraps?
+122. What is namespace?
+123. What is thread local?
+124. What is global namespace?
+125. What is generator?
+126. What is the difference between a function and a generator?
+127. When does a generator throws StopIteration exception?
+128. What is the functionality of "yield from"?
+129. What is the sequence in which you will read from a file (what are the functions you will use and in what order)?
+130. What is the sequence in which you will write to a file (what are the functions you will use and in what order)?
+131. What happens to local namespace when you yield in a function?
+132. Do you really need to have a return statement in a generator definition? Why?
+133. How will you get size of an object?
+134. How will you find the number of references that an object has?
+135. 
