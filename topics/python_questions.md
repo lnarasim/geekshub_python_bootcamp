@@ -196,4 +196,7 @@ Anyone exposed to Python for more than six months should be able to answer most 
 169. When will you use generator expression?
 170. Is the file object iterable or iterator?
 171. How will you make an interator out of a generator?
-172. 
+172. What are naming conventions of modules, packages, functions, classes, variable names, methods?
+173. What is Pylint?
+174. What is "assert"?
+175. 
