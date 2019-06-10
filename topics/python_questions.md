@@ -174,4 +174,26 @@ Anyone exposed to Python for more than six months should be able to answer most 
 147. How will you make one of your class to be used in "for" loop and list comprehension?
 148. How will you check programmatically that a given object is an int?
 149. How will you check programmatically that a given object is a number? It can be int, float, decimal, fraction.
-150. 
+150. How will you measure the running time of a function?
+151. How will you measure the performance of a small snippet of code?
+152. What is monkey patching?
+153. What is duck typing?
+154. How will add attribute to an object after it is created?
+155. What is the difference between a function and a method?
+156. What is the first parameter of a method (object)?
+157. What is the first parameter of a class method?
+158. What is the first parameter of a static method?
+159. What is \_\_main\_\_?
+160. How will you make your code to execute only when it is run as script?
+161. What are command line arguments?
+162. How will you retrieve command line arguments?
+163. What is CPython?
+164. How features in Python are implemented? Who decides to add a feature to Python?
+165. What is the syntax of list comprehension?
+166. What is the difference between list comprehension and generator expression?
+167. What is lazy evaluation?
+168. What is eager evaluation?
+169. When will you use generator expression?
+170. Is the file object iterable or iterator?
+171. How will you make an interator out of a generator?
+172. 
