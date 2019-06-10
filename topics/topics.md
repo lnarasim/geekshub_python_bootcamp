@@ -80,7 +80,8 @@ The rest of this page has the materials that we use in our weekly classes. It sh
 * Callables [[slides](callables.html)]
 * Logging
 
-## Python Intermediate Problems
+## Python Questions and Intermediate Problems
+* [Python Questions to Reinforce Learning](python_questions.md)
 * [Python Intermediate Problems for Practice](python_intermediate_problems.md)
 
 ## Mini-projects
