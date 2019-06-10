@@ -159,4 +159,19 @@ Anyone exposed to Python for more than six months should be able to answer most 
 132. Do you really need to have a return statement in a generator definition? Why?
 133. How will you get size of an object?
 134. How will you find the number of references that an object has?
-135. 
+135. What is order of resolution of variable names with respect to scopes?
+136. What is the difference between module scope and global scope?
+137. What is built-in scope?
+138. What is callable?
+139. How will you find whether an object is callable?
+140. How will you set default values for function parameters programmatically?
+141. Why we need to have default values for all parameters to function parameters once we start defining?
+142. How will you introspect a function and determine whether it is a closure or not?
+143. How will you find the free variables using introspection?
+144. What are the rules of slicing?
+145. What happens when you give end index greater than length of the sequence in a slice?
+146. What is range?
+147. How will you make one of your class to be used in "for" loop and list comprehension?
+148. How will you check programmatically that a given object is an int?
+149. How will you check programmatically that a given object is a number? It can be int, float, decimal, fraction.
+150. 
