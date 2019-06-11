@@ -19,7 +19,7 @@ Almost all slides will have code examples unless it is purely concepts. The exam
 
 Read our [__Good Ways of Working__](good_ways_of_working.md)
 
-1. __[Class Notes](topics/topics.md)__ - We anchor our sessions based on these topics and this is no means the complete list. But this helps participants to recollect the concepts. There are examples, questions/quizzes and simple programs to solve. You should try all these without fail.
+1. __[Bootcamp Areas](topics/topics.md)__ - We anchor our sessions based on these topics and this is no means the complete list. But this helps participants to recollect the concepts. There are examples, questions/quizzes and simple programs to solve. You should try all these without fail.
 2. __[Programming Puzzles](programming_puzzles.md)__ - These are puzzles that should be solved using few concepts in Python
 3. __[Tools Projects](tools_projects.md)__ - Develop a tool and this can span for a period of 2-3 weeks
 4. __Projects__ - Span across months and often done with fellow GeeksHub Geeks. The projects are not listed here and exclusive to Geeks
