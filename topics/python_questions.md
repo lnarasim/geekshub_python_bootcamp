@@ -226,7 +226,7 @@ Anyone exposed to Python for more than six months should be able to answer most 
 199. How will you create an empty set?
 200. What is associative array?
 201. How associative array is implemented in Python?
-202. What are various ways of creating dictionaries? Specify at least three ways of creating dictionary
+202. What are various ways of creating dictionaries? Specify at least three ways of creating dictionary?
 203. What are logical operators available in Python?
 204. What are unary logical operators available in Python?
 205. What are binary logical operators available in Python?
