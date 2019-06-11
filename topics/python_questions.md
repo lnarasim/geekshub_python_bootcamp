@@ -1,8 +1,9 @@
-### Python Questions
+## Python Questions
 This page contains some questions in Python. Think through and answer these. These questions will probably let you think and reinforce the learning. Discuss these questions with your friends/batchmates and debate on answers. These questions are typically asked in most interviews.
 
 Anyone exposed to Python for more than six months should be able to answer most of the questions.
 
+### Basics
 1. What is Python Virtual Machine
 2. What is Python Interpreter
 3. What is Garbage Collection
@@ -235,4 +236,37 @@ Anyone exposed to Python for more than six months should be able to answer most 
 208. What are various bitwise operators available in Python? How do they work?
 209. What are various types of relational operators available Python?
 210. How can you make relational operators to work on customer classes (objects that are created out of customer classes)
-211. 
+211. Does complex number in Python support relational operations?
+212. What is the function used to find length of any sequence (or object for that matter?)
+213. Where does the objects created by Python are stored in Python Virtual Machine?
+214. What is Virtual Environment and why do we need it?
+215. How will you create a virtual environment?
+216. How will you activate and deactivate a virtual environment?
+217. Do you know any package that helps managing virtual environments?
+218. How does Python detects the truthyness of an object?
+219. What is the default truthyness value of objects created by custom classes when nothing specific is implemented?
+220. How will you generate random numbers in Python?
+221. How will you pick an arbitary random item from a sequence?
+222. What are various types available in Python?
+223. What are conventions with respect naming of variables/functions/methods in the following cases
+    * single underscore followed by alphabets
+    * dunder followed by alphapets
+    * dunder functions
+224. Does Python have the concept of constants? What is the convention to be followed when naming constants.
+225. What is lambda. What is the syntax of a lambda?
+226. Does Python have do...while loop?
+227. What is the functionality of \_\_str\_\_?
+228. What is the functionality of \_\_repr\_\_?
+229. List down few special methods (dunder methods) along with their uses/benefits?
+230. How will you disable garbage collection?
+231. When will you disable garbage collection?
+232. Functions are first class citizen. Explain why we say so?
+233. What is string interning?
+234. What kind of strings are interned?
+235. With respect to rounding of floats/decimals, what is absolute tolerence and relative tolerence?
+236. Can we compare a float with a decimal, a decimal with an integer, an integer with fraction?
+237. How lists/tuples and dictionaries are unpacked?
+238. When does the default values of a function is evaluated and assigned? (meaning when does the address of the default object burned with parameter name?)
+239. What are various ways of importing symbols? (modules, functions etc)
+240. What is namedtuple? Why we need it?
+241. 
