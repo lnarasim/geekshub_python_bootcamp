@@ -219,4 +219,20 @@ Anyone exposed to Python for more than six months should be able to answer most 
 192. What is shortcircuiting in "and" and "or" operators? How does it work?
 193. How shortcircuiting works in normal statements when they are present in right hand side of an assignment statement?
 194. How does shortcircuiting works in "if" and "while" conditions?
-195. 
+195. What is the maximum number that can be stored in an integer type?
+196. How does truncation, floor and ceiling works for positive integers?
+197. How does truncation, floor and ceiling works for negative integers?
+198. A set cannot contain mutable types. The same applies to the keys of dictionaries? Why so?
+199. How will you create an empty set?
+200. What is associative array?
+201. How associative array is implemented in Python?
+202. What are various ways of creating dictionaries? Specify at least three ways of creating dictionary
+203. What are logical operators available in Python?
+204. What are unary logical operators available in Python?
+205. What are binary logical operators available in Python?
+206. What are equality operators?
+207. What are various arithematic operators support by Python?
+208. What are various bitwise operators available in Python? How do they work?
+209. What are various types of relational operators available Python?
+210. How can you make relational operators to work on customer classes (objects that are created out of customer classes)
+211. 
