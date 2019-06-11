@@ -199,4 +199,24 @@ Anyone exposed to Python for more than six months should be able to answer most 
 172. What are naming conventions of modules, packages, functions, classes, variable names, methods?
 173. What is Pylint?
 174. What is "assert"?
-175. 
+175. In the programming langauges such as C and Java, a statement delimiter is ";" (semi-colon). What is statement delimiter in Python?
+176. In programming languages such as C and Java, a block of code is enclosed within braces ({}). How Python encloses a block of code?
+177. What are various types of scopes available in Python?
+178. Within a function, if a variable is defined, the variable scope is available and does not go out of scope? Is the statement is correct? Give examples to substantiate your claim.
+179. What is the difference between compiled and interpreted langauge?
+180. Python is both compiled and interpreted language. How?
+181. What are various ways of representing string?
+182. What are multiline statements?
+183. Python understands certain types of statements that spans across multiple lines. Give examples of such types.
+184. How can you explicitly specify multiline statements?
+185. What is the reason that one should go for multiline statements?
+186. What is formatted string?
+187. What is f-string?
+188. How will you represent an integer in base-10 in base-16, base-2 and base-8
+189. What is the maximum base that Python supports for integers?
+190. What are identifiers?
+191. Can a non-boolean value be used in an "if condition"? How the conditions in "if" and "while" is evaluated?
+192. What is shortcircuiting in "and" and "or" operators? How does it work?
+193. How shortcircuiting works in normal statements when they are present in right hand side of an assignment statement?
+194. How does shortcircuiting works in "if" and "while" conditions?
+195. 
