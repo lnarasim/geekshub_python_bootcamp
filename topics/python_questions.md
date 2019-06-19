@@ -269,4 +269,27 @@ Anyone exposed to Python for more than six months should be able to answer most 
 238. When does the default values of a function is evaluated and assigned? (meaning when does the address of the default object burned with parameter name?)
 239. What are various ways of importing symbols? (modules, functions etc)
 240. What is namedtuple? Why we need it?
-241. 
+241. Does sorting (list.sort or sorted) work in iterable having heterogenous types. What cases does it work and what cases it does not work.
+242. Will you be able to sort a list of complex numbers? Why?
+243. What is the difference between the following in lists
+    * l1 = [1, 2, 3]
+    * l2 = [4, 5, 6]
+    * l3 = l1 + l2
+    * l1 += l2
+244. What is the different between the following in tuples
+    * t1 = (1, 2, 3)
+    * t2 = (4, 5, 6)
+    * t3 = t1 + t2
+    * t1 += t2
+245. What is constant folding? Give examples of constant folding of tuple? When does it kick in and when it does not come into picture?
+246. How will you disassemble a code snippet in Python?
+247. How will you time a code snippet in Python?
+248. What happens in the following scenario?
+     * l1 = [1, 2, 3]
+     * l2 = list(l1)
+     * t1 = (1, 2, 3)
+     * t2 = tuple(t1)
+249. Why the indexing of sequences starts at zero?
+250. Why slicing does not include upper bound but include lower bound?
+251. How does constant folding work when you have mutable object (list) inside immutable (tuple)?
+252. How does constant folding work when you have immutable object (tuple) inside mutable (list)?

@@ -1,0 +1,23 @@
+In EBSCO databases, some searchable field codes are word indexed, while others are phrase indexed.  The database help file located via the Help link in the upper right corner of the database will indicate which searchable field codes are available, as well as which are word or phrase indexed.
+
+A phrase indexed field code will search for your term(s) as an exact match within a record.
+
+For example, in some databases, the field code JN is a phrased indexed field code which searches the source section of citations. In these databases, a search for JN Time can only return records whose source is the journal "Time."
+
+A word indexed field code will search for your term as a keyword within the specified field. For example, the field code SO is a word indexed field code in some databases, which also searches the source section of citations.
+
+In EBSCO databases, some searchable field codes are word indexed, while others are phrase indexed.  The database help file located via the Help link in the upper right corner of the database will indicate which searchable field codes are available, as well as which are word or phrase indexed.
+
+A phrase indexed field code will search for your term(s) as an exact match within a record.
+
+For example, in some databases, the field code JN is a phrased indexed field code which searches the source section of citations. In these databases, a search for JN Time can only return records whose source is the journal "Time."
+
+A word indexed field code will search for your term as a keyword within the specified field. For example, the field code SO is a word indexed field code in some databases, which also searches the source section of citations.
+
+In EBSCO databases, some searchable field codes are word indexed, while others are phrase indexed.  The database help file located via the Help link in the upper right corner of the database will indicate which searchable field codes are available, as well as which are word or phrase indexed.
+
+A phrase indexed field code will search for your term(s) as an exact match within a record.
+
+For example, in some databases, the field code JN is a phrased indexed field code which searches the source section of citations. In these databases, a search for JN Time can only return records whose source is the journal "Time."
+
+A word indexed field code will search for your term as a keyword within the specified field. For example, the field code SO is a word indexed field code in some databases, which also searches the source section of citations.
