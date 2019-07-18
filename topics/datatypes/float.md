@@ -64,7 +64,7 @@ layout: false
 ---
 
 # Floats in Python
-* Integer is an object
+* Float is an object
 * Immutable
 * Limited in size
 * It has overhead
