@@ -135,6 +135,10 @@ layout: false
 
 # Exercises 
 
+1. What is variable?
+2. Define references?
+3. Give a real world analogy of variable, references and objects.
+
 ---
 
 layout: true
