@@ -18,7 +18,7 @@ __Problem Solving, DS & Algo, First Principles__
 __Sessions, Solved Examples, Coding Quizzes, Tools Projects Creative Questioning and Projects__
 
 ## Technology: 
-__Python/JavaScript/Golang/Rust, Software Development and Automation, Linux, Virtualization, Containers, Microservices, CI/CD, TDD, IT Automation, Git/GitHub and the likes__
+__Python, Software Development and Automation, Linux, Virtualization, Containers, Microservices, CI/CD, TDD, IT Automation, Git/GitHub and the likes__
 
 # The Steps to __Transform__
 
@@ -27,11 +27,13 @@ Read our [__Good Ways of Working__](good_ways_of_working.md)
 1. __[Bootcamp Areas](topics/topics.md)__ - We anchor our sessions based on these topics and this is no means the complete list. But this helps participants to recollect the concepts. There are examples, questions/quizzes and simple programs to solve. You should try all these without fail.
 
     * [Python - Bootstrapping](topics/python_bootstrapping.md)
-    * Python - Bootstrapping
+    * Python - Basic
     * Python - Intermediate
     * Python - Pythonic
-    * Python - Data Science Exposition
-    * Python - AI/ML Exposition
+    * Python - Data Science Exposition (Specialization)
+    * Python - AI/ML Exposition (Specialization)
+    * Python - Visualization (Specialization)
+    * Python - Backend, Web Development (Specialization)
 
 2. __[Programming Puzzles](programming_puzzles.md)__ - These are puzzles that should be solved using few concepts in Python
 3. __[Tools Projects](tools_projects.md)__ - Develop a tool and this can span for a period of 2-3 weeks
