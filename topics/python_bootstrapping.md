@@ -1,6 +1,6 @@
 # GeeksHub - Python 
 
-# Python - Level 1 (Bootstrapping with Very Basic)
+# Python - Level 1 (Bootstrapping)
 
 ## Python Intro
 * Python Introduction [[slides](python_introduction/python_introduction.html)]

@@ -26,8 +26,8 @@ Read our [__Good Ways of Working__](good_ways_of_working.md)
 
 1. __[Bootcamp Areas](topics/topics.md)__ - We anchor our sessions based on these topics and this is no means the complete list. But this helps participants to recollect the concepts. There are examples, questions/quizzes and simple programs to solve. You should try all these without fail.
 
-    * [Python - Very Basic](topics/python_topics.md)
-    * Python - Basic
+    * [Python - Bootstrapping](topics/python_bootstrapping.md)
+    * Python - Bootstrapping
     * Python - Intermediate
     * Python - Pythonic
     * Python - Data Science Exposition
