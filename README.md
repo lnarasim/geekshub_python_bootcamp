@@ -24,7 +24,7 @@ __Python, Software Development and Automation, Linux, Virtualization, Containers
 
 Read our [__Good Ways of Working__](good_ways_of_working.md)
 
-1. __[Bootcamp Areas](topics/topics.md)__ - We anchor our sessions based on these topics and this is no means the complete list. But this helps participants to recollect the concepts. There are examples, questions/quizzes and simple programs to solve. You should try all these without fail.
+1. __[Bootcamp Areas](topics/topics.md)__ - We anchor our sessions based on these topics and this is no means the complete list. These topics evolve as technology world evoles. The first four parts are focussed on first principles which provides you a platform to tackle any specialization/project. So, the first four parts are very important so that you do well in specialization
 
     * [Python - Bootstrapping](topics/python_bootstrapping.md)
     * Python - Basic
