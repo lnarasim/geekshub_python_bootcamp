@@ -11,10 +11,14 @@ This page is just to make our life look easy. Your life changes if you __do__ th
 
 Almost all slides will have code examples unless it is purely concepts. The examples can be downloaded by clicking "examples" in the title slide of each topic or you can view these examples in the repository.
 
+### Methodology
+__Problem Solving, DS & Algo, First Principles__
 
-A few slides to sum up what you will undergo
+### Modes:
+__Sessions, Solved Examples, Coding Quizzes, Tools Projects Creative Questioning and Projects__
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxR_JnAiAnc15gTMTh2JGwgaA-kWcQDbODUSAqSNi8jOeg04pggKzV8L8pJBFLWJgZx2EUvBopEa3w/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+### Technology: 
+__Python/JavaScript/Golang/Rust, Software Development and Automation, Linux, Virtualization, Containers, Microservices, CI/CD, TDD, IT Automation, Git/GitHub and the likes__
 
 ### The Steps to __Transform__
 
@@ -32,13 +36,8 @@ Read our [__Good Ways of Working__](good_ways_of_working.md)
 3. __[Tools Projects](tools_projects.md)__ - Develop a tool and this can span for a period of 2-3 weeks
 4. __Projects__ - Span across months and often done with fellow GeeksHub Geeks. The projects are not listed here and exclusive to Geeks
 
-### Methodology
-__Problem Solving, DS & Algo, First Principles__
-
-### Modes:
-__Sessions, Solved Examples, Coding Quizzes, Tools Projects and Projects__
-
-### Technology: 
-__Python, Software Development and Automation, Linux, Virtualization, Containers, Microservices, CI/CD, TDD, IT Automation, Git/GitHub and the likes__
-
 [GeeksHub](https://www.geekshub.in)
+
+# The Summary
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxR_JnAiAnc15gTMTh2JGwgaA-kWcQDbODUSAqSNi8jOeg04pggKzV8L8pJBFLWJgZx2EUvBopEa3w/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
