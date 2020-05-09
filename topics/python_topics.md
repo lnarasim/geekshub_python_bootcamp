@@ -25,19 +25,20 @@
 ## Modules and Packages
 * Modules [[slides](modules/modules.html)]
 * Packages [[slides](packages/packages.html)]
-* Python Standard Library - Overview (WIP)
 
 ## Functions and Related
+* Scopes [[slides](functions/scopes.html)]
 * Functions [[slides](functions/functions.html)]
+* Callables [[slides](functions/callables.html)]
 * Annotations and Docstring [[slides](functions/annotation_docstring.html)]
+
+## Functions - Much More
 * Lambda [[slides](functions/lambda.html)]
 * Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
 * List Comprehension [[slides](functions/list_comprehension.html)]
-* Callables [[slides](functions/callables.html)]
 * Function Introspection [[slides](functions/function_introspection.html)]
 * Reducing Functions [[slides](functions/reducing_functions.html)]
 * Partial Functions [[slides](functions/partial_functions.html)]
-* Scopes [[slides](functions/scopes.html)]
 * Closures [[slides](functions/closures.html)]
 * Decorators - Simple and Easy [[slides](functions/decorators.html)]
 * Generators
@@ -59,8 +60,8 @@
 * Regular Expression
 * Command Line Arguments
 * Playing with Garbage Collection
-* Callables [[slides](callables.html)]
 * Logging
+* Python Standard Library - Overview (WIP)
 
 ## Python Questions and Intermediate Problems
 * [Python Questions to Reinforce Learning](python_questions.md)
