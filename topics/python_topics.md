@@ -36,6 +36,10 @@
 * Callables [[slides](functions/callables.html)]
 * Docstring [[slides](functions/annotation_docstring.html)]
 
+## Python - Third Party Packages and Cleaner Environment
+* pip [[slides](python_tools/pip.html)]
+* venv [[slides](python_tools/venv.html)]
+
 # Take Diversion - Towards Quality
 
 ## "Test"ing - Fun
@@ -75,10 +79,6 @@
 
 ## Others
 * Working with JSON [[slides](json/json.html)]
-
-### Python Tools
-* pip [[slides](python_tools/pip.html)]
-* venv [[slides](python_tools/venv.html)]
 
 ## Other Topics (WIP)
 
