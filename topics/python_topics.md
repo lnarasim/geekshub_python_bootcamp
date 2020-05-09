@@ -32,7 +32,7 @@
 * Scopes [[slides](functions/scopes.html)]
 * Functions [[slides](functions/functions.html)]
 * Callables [[slides](functions/callables.html)]
-* Annotations and Docstring [[slides](functions/annotation_docstring.html)]
+* Docstring [[slides](functions/annotation_docstring.html)]
 
 # Take Diversion - Towards Quality
 
@@ -48,15 +48,22 @@
 # Python - Level 2 (Real Python)
 
 ## Functions - Much More
-* Lambda [[slides](functions/lambda.html)]
-* Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
-* List Comprehension [[slides](functions/list_comprehension.html)]
+* Annotations [[slides](functions/annotation_docstring.html)]
 * Function Introspection [[slides](functions/function_introspection.html)]
 * Reducing Functions [[slides](functions/reducing_functions.html)]
 * Partial Functions [[slides](functions/partial_functions.html)]
+* Lambda [[slides](functions/lambda.html)]
+* Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
+
+## List Comprehension
+* List Comprehension [[slides](functions/list_comprehension.html)]
+
+## Closures
 * Closures [[slides](functions/closures.html)]
+
+## Decorators
 * Decorators - Simple and Easy [[slides](functions/decorators.html)]
-* Generators
+* Generators (WIP)
 
 ## Classes and Related
 * Exceptions [[slides](classes_exceptions/exceptions.html)]
