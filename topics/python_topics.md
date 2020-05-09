@@ -1,5 +1,7 @@
 # GeeksHub - Python 
 
+# Python - Level 1 (Bootstrapping with Very Basic)
+
 ## Python Intro
 * Python Introduction [[slides](python_introduction/python_introduction.html)]
 * Variables, Memory, Objects [[slides](python_introduction/variables_memory_objects.html)]
@@ -31,6 +33,19 @@
 * Functions [[slides](functions/functions.html)]
 * Callables [[slides](functions/callables.html)]
 * Annotations and Docstring [[slides](functions/annotation_docstring.html)]
+
+# Take Diversion - Towards Quality
+
+## "Test"ing - Fun
+* Linting
+* Why Testing
+* Unit Testing
+* Writing Mocks
+
+## Managing your project
+* GIT & GITHub
+
+# Python - Level 2 (Real Python)
 
 ## Functions - Much More
 * Lambda [[slides](functions/lambda.html)]
