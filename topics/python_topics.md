@@ -97,4 +97,4 @@
 * Learn Python Hard Way
 * Learning Python
 * Fluent Python
-* Effective Python
+* Effective Python               
