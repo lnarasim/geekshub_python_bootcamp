@@ -68,8 +68,9 @@
 * Generators (WIP)
 
 ## Classes and Related
-* Exceptions [[slides](classes_exceptions/exceptions.html)]
+* OOPS [[slides](classes_exceptions/oops.html)]
 * Classes [[slides](classes_exceptions/classes.html)]
+* Exceptions [[slides](classes_exceptions/exceptions.html)]
 * Class Decorators
 
 ## Others
