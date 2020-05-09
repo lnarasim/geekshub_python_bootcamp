@@ -92,3 +92,9 @@
 
 ## Mini-projects
 * [Analysis and Visualizations of Urban Accidents in India States](/geekshub_python_bootcamp/mini-projects/urban_accidents/Urban_accidents_India_Data_graphs.ipynb)
+
+## Books
+* Learn Python Hard Way
+* Learning Python
+* Fluent Python
+* Effective Python
