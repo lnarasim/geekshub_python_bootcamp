@@ -2,15 +2,29 @@
 
 # Python - Level 1 (Bootstrapping)
 
+## Basic Computers
+* Part of Computer
+* Anatomy of Program
+* Operating System
+* Algo & DS
+* Problem Solving
+* Programming Languages
+
 ## Python Intro
 * Python Introduction [[slides](python_introduction/python_introduction.html)]
 * Variables, Memory, Objects [[slides](python_introduction/variables_memory_objects.html)]
 
-## Datatypes
+## Datatypes - Primitives
 * Datatypes [[slides](datatypes/datatypes.html)]
 * Int [[slides](datatypes/int.html)]
 * Float [[slides](datatypes/float.html)]
 * Boolean [[slides](datatypes/bool.html)]
+
+## Conditionals and Loops
+* Conditionals [[slides](conditionals_loops/conditionals.html)]
+* Loops [[slides](conditionals_loops/loops.html)]
+
+## Datatypes - Composite
 * String [[slides](datatypes/string.html)]
 * List [[slides](datatypes/list.html)]
 * Tuple [[slides](datatypes/tuple.html)]
@@ -18,10 +32,6 @@
 * Set [[slides](datatypes/set.html)]
 * Named Tuple [[slides](datatypes/named_tuple.html)]
 * Packing & Unpacking [[slides](datatypes/packing_unpacking.html)]
-
-## Conditionals and Loops
-* Conditionals [[slides](conditionals_loops/conditionals.html)]
-* Loops [[slides](conditionals_loops/loops.html)]
 
 ## Modules and Packages
 * Modules [[slides](modules/modules.html)]
