@@ -1,0 +1,70 @@
+# GeeksHub - Python 
+
+# Python - Level 2 (Little Further)
+
+## File I/O
+* File I/O [[slides](datatypes/fileio.html)]
+
+## Functions and Related
+* Scopes [[slides](functions/scopes.html)]
+* Functions [[slides](functions/functions.html)]
+* Callables [[slides](functions/callables.html)]
+* Docstring [[slides](functions/annotation_docstring.html)]
+
+## Functions - Much More
+* Annotations [[slides](functions/annotation_docstring.html)]
+* Function Introspection [[slides](functions/function_introspection.html)]
+* Reducing Functions [[slides](functions/reducing_functions.html)]
+* Partial Functions [[slides](functions/partial_functions.html)]
+* Lambda [[slides](functions/lambda.html)]
+* Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
+
+## List Comprehension
+* List Comprehension [[slides](functions/list_comprehension.html)]
+
+## Closures
+* Closures [[slides](functions/closures.html)]
+
+## Decorators
+* Decorators - Simple and Easy [[slides](functions/decorators.html)]
+* Generators (WIP)
+
+## Python - Third Party Packages and Cleaner Environment
+* pip [[slides](python_tools/pip.html)]
+* venv [[slides](python_tools/venv.html)]
+
+## Managing your project
+* GIT & GITHub
+
+## Level 3
+
+## Classes and Related
+* OOPS [[slides](classes_exceptions/oops.html)]
+* Classes [[slides](classes_exceptions/classes.html)]
+* Exceptions [[slides](classes_exceptions/exceptions.html)]
+* Class Decorators
+
+## Others
+* Working with JSON [[slides](json/json.html)]
+
+## Other Topics (WIP)
+
+* Regular Expression
+* Command Line Arguments
+* Playing with Garbage Collection
+* Logging
+* Python Standard Library - Overview (WIP)
+
+## Python Questions and Intermediate Problems
+* [Python Questions to Reinforce Learning](python_questions.md)
+* [Python Intermediate Problems for Practice](python_intermediate_problems.md)
+* [Computer Science Basics Questions to Reinforce Learning](computer_science_basics_questions.md)
+
+## Mini-projects
+* [Analysis and Visualizations of Urban Accidents in India States](/geekshub_python_bootcamp/mini-projects/urban_accidents/Urban_accidents_India_Data_graphs.ipynb)
+
+## Books
+* Learn Python Hard Way
+* Learning Python
+* Fluent Python
+* Effective Python     

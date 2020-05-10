@@ -19,9 +19,6 @@
 * Named Tuple [[slides](datatypes/named_tuple.html)]
 * Packing & Unpacking [[slides](datatypes/packing_unpacking.html)]
 
-## File I/O
-* File I/O [[slides](datatypes/fileio.html)]
-
 ## Conditionals and Loops
 * Conditionals [[slides](conditionals_loops/conditionals.html)]
 * Loops [[slides](conditionals_loops/loops.html)]
@@ -30,16 +27,6 @@
 * Modules [[slides](modules/modules.html)]
 * Packages [[slides](packages/packages.html)]
 
-## Functions and Related
-* Scopes [[slides](functions/scopes.html)]
-* Functions [[slides](functions/functions.html)]
-* Callables [[slides](functions/callables.html)]
-* Docstring [[slides](functions/annotation_docstring.html)]
-
-## Python - Third Party Packages and Cleaner Environment
-* pip [[slides](python_tools/pip.html)]
-* venv [[slides](python_tools/venv.html)]
-
 # Take Diversion - Towards Quality
 
 ## "Test"ing - Fun
@@ -47,46 +34,6 @@
 * Why Testing
 * Unit Testing
 * Writing Mocks
-
-## Managing your project
-* GIT & GITHub
-
-# Python - Level 2 (Real Python)
-
-## Functions - Much More
-* Annotations [[slides](functions/annotation_docstring.html)]
-* Function Introspection [[slides](functions/function_introspection.html)]
-* Reducing Functions [[slides](functions/reducing_functions.html)]
-* Partial Functions [[slides](functions/partial_functions.html)]
-* Lambda [[slides](functions/lambda.html)]
-* Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
-
-## List Comprehension
-* List Comprehension [[slides](functions/list_comprehension.html)]
-
-## Closures
-* Closures [[slides](functions/closures.html)]
-
-## Decorators
-* Decorators - Simple and Easy [[slides](functions/decorators.html)]
-* Generators (WIP)
-
-## Classes and Related
-* OOPS [[slides](classes_exceptions/oops.html)]
-* Classes [[slides](classes_exceptions/classes.html)]
-* Exceptions [[slides](classes_exceptions/exceptions.html)]
-* Class Decorators
-
-## Others
-* Working with JSON [[slides](json/json.html)]
-
-## Other Topics (WIP)
-
-* Regular Expression
-* Command Line Arguments
-* Playing with Garbage Collection
-* Logging
-* Python Standard Library - Overview (WIP)
 
 ## Python Questions and Intermediate Problems
 * [Python Questions to Reinforce Learning](python_questions.md)

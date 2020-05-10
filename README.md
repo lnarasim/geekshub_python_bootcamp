@@ -27,7 +27,7 @@ Read our [__Good Ways of Working__](good_ways_of_working.md)
 1. __[Bootcamp Areas](topics/topics.md)__ - We anchor our sessions based on these topics and this is no means the complete list. These topics evolve as technology world evoles. The first four parts are focussed on first principles which provides you a platform to tackle any specialization/project. So, the first four parts are very important so that you do well in specialization
 
     * [Python - Bootstrapping](topics/python_bootstrapping.md)
-    * Python - Basic
+    * [Python - Little Further](topics/python_little_further.md)
     * Python - Intermediate
     * Python - Pythonic
     * Python - Data Science Exposition (Specialization)
