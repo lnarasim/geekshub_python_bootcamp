@@ -37,6 +37,9 @@
 * Modules [[slides](modules/modules.html)]
 * Packages [[slides](packages/packages.html)]
 
+## The Books
+* Books for Beginner [[slides](books/books_beginner.html)]
+
 # Take Diversion - Towards Quality
 
 ## "Test"ing - What it takes to build any useful products
@@ -56,6 +59,7 @@
 ## Books
 * Operating System Concepts by Silberschatz, Galvin and Gagne
 * Learn Python Hard Way
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * Learning Python
 * Fluent Python
 * Effective Python     
