@@ -39,7 +39,7 @@
 
 # Take Diversion - Towards Quality
 
-## "Test"ing - Fun
+## "Test"ing - What it takes to build any useful products
 * Linting
 * Why Testing
 * Unit Testing
