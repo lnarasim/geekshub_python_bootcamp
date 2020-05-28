@@ -6,8 +6,8 @@
 * File I/O [[slides](datatypes/fileio.html)]
 
 ## Functions and Related
-* Scopes [[slides](functions/scopes.html)]
 * Functions [[slides](functions/functions.html)]
+* Scopes [[slides](functions/scopes.html)]
 * Callables [[slides](functions/callables.html)]
 * Docstring [[slides](functions/annotation_docstring.html)]
 
@@ -22,38 +22,12 @@
 ## List Comprehension
 * List Comprehension [[slides](functions/list_comprehension.html)]
 
-## Closures
-* Closures [[slides](functions/closures.html)]
-
-## Decorators
-* Decorators - Simple and Easy [[slides](functions/decorators.html)]
-* Generators (WIP)
-
 ## Python - Third Party Packages and Cleaner Environment
 * pip [[slides](python_tools/pip.html)]
 * venv [[slides](python_tools/venv.html)]
 
 ## Managing your project
 * GIT & GITHub
-
-## Level 3
-
-## Classes and Related
-* OOPS [[slides](classes_exceptions/oops.html)]
-* Classes [[slides](classes_exceptions/classes.html)]
-* Exceptions [[slides](classes_exceptions/exceptions.html)]
-* Class Decorators
-
-## Others
-* Working with JSON [[slides](json/json.html)]
-
-## Other Topics (WIP)
-
-* Regular Expression
-* Command Line Arguments
-* Playing with Garbage Collection
-* Logging
-* Python Standard Library - Overview (WIP)
 
 ## Python Questions and Intermediate Problems
 * [Python Questions to Reinforce Learning](python_questions.md)

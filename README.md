@@ -28,7 +28,7 @@ Read our [__Good Ways of Working__](good_ways_of_working.md)
 
     * [Python - Bootstrapping](topics/python_bootstrapping.md)
     * [Python - Little Further](topics/python_little_further.md)
-    * Python - Intermediate
+    * [Python - Essentials](topics/python_essentials.md)
     * Python - Pythonic
     * Python - Data Science Exposition (Specialization)
     * Python - AI/ML Exposition (Specialization)
