@@ -7,17 +7,17 @@
 
 ## Functions and Related
 * Functions [[slides](functions/functions.html)]
+* Docstring [[slides](functions/annotation_docstring.html)]
 * Scopes [[slides](functions/scopes.html)]
 * Callables [[slides](functions/callables.html)]
-* Docstring [[slides](functions/annotation_docstring.html)]
+* Function Introspection [[slides](functions/function_introspection.html)]
+* Annotations [[slides](functions/annotation_docstring.html)]
 
 ## Functions - Much More
-* Annotations [[slides](functions/annotation_docstring.html)]
-* Function Introspection [[slides](functions/function_introspection.html)]
-* Reducing Functions [[slides](functions/reducing_functions.html)]
-* Partial Functions [[slides](functions/partial_functions.html)]
 * Lambda [[slides](functions/lambda.html)]
 * Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
+* Reducing Functions [[slides](functions/reducing_functions.html)]
+* Partial Functions [[slides](functions/partial_functions.html)]
 
 ## List Comprehension
 * List Comprehension [[slides](functions/list_comprehension.html)]
