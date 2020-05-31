@@ -13,7 +13,7 @@ with [examples](map_filter_zip.ipynb)
 name: inverse
 layout: false
 
-# Map, Filter, Zip
+# Map
 * Map and Filter are Higher order functions
 * Map
     * Returns an iterator that calculates the function applied to each element of the iterables
@@ -21,20 +21,6 @@ layout: false
     * Returns an iterator
     * Iterator stops as soon as at least one of the iterables is exhausted
     * map(fn, *iterables)
-
-* Filter
-    * Determines whether to retain or throw the element from resultant iterator
-    * Run and return an iterable when it satifies a condition
-    * If function is None, it returns based on Truth value of the object
-    * If functions returns True, the object is added to iterator
-    * filter returns an iterator
-    * filter(func, iterable)
-
-* Zip 
-    * Returns an iteratble with each element of iterables as tuple
-    * zip is not an higher order function
-    * Stops at shortest iterable
-    * zip(*iterables)
 
 ---
 
@@ -59,6 +45,17 @@ layout: false
     print(result)
     
     ```
+
+---
+
+# Filter
+* Filter
+    * Determines whether to retain or throw the element from resultant iterator
+    * Run and return an iterable when it satifies a condition
+    * If function is None, it returns based on Truth value of the object
+    * If functions returns True, the object is added to iterator
+    * filter returns an iterator
+    * filter(func, iterable)
 
 ---
 
@@ -88,6 +85,15 @@ layout: false
     result = list(filter(None, lyst1))
     print(result)
     ```
+
+---
+
+# Zip
+* Zip 
+    * Returns an iteratble with each element of iterables as tuple
+    * zip is not an higher order function
+    * Stops at shortest iterable
+    * zip(*iterables)
 
 ---
 
@@ -194,7 +200,6 @@ layout: false
     map(lambda x, y: x + y, l1, l2)
 
     ```
-
 ---
 
 layout: true

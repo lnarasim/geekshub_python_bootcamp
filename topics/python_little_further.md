@@ -15,7 +15,7 @@
 
 ## Functions - Much More
 * Lambda [[slides](functions/lambda.html)]
-* Map, Filte, Zip [[slides](functions/map_filter_zip.html)]
+* Map, Filter, Zip [[slides](functions/map_filter_zip.html)]
 * Reducing Functions [[slides](functions/reducing_functions.html)]
 * Partial Functions [[slides](functions/partial_functions.html)]
 
