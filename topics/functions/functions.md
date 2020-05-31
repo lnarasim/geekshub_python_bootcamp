@@ -122,6 +122,22 @@ layout: false
 
 ---
 
+# Positional Only Parameters
+* Allow only positional arguments
+* Does not allow passing value using named arguments
+* Add "/" at the end of positional parameters
+* Example:
+    ```python
+    def f(a, b, /):
+        pass
+
+    # works fine
+    f(1, 2)
+
+    # throws error
+    f(b = 10, a = 11)
+    ```
+
 # Examples 
 
 * Some (interesting) examples

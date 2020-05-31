@@ -51,13 +51,31 @@ layout: false
 * inspect.signature - returns signature instance
     * Has parameters which is a dictionary
         * key is param name
-        * values are attributes 
+        * value are Parameter 
             * name
             * default
             * annotation
             * kind (positional, variable-pos, kwonly, var-kwonly)
 
 ---
+
+# inspect.signature
+* Example:
+    ```python
+    some = 1
+    # TODO: Have to come up with a detailed example, covering
+    # all possible cases of annotations
+    def func(a:some, b:str, c:float = 0.1, *args, kw1 = 2, kw2) -> 1 + 2:
+        '''This is a func'''
+        print(a, b, c, args)
+
+    for param in inspect.signature(func).parameters.values():
+    print("-------------------------------------------------")
+    print(f"Name = {param.name}")
+    print(f"Default Value = {param.default}")
+    print(f"Annotation = {param.annotation}")
+    print(f"Kind = {param.kind}")
+    ```
 
 # Exercises
 
