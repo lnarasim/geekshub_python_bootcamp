@@ -24,19 +24,24 @@ layout: false
 
 ---
 
-# pip command
+# pip - basic scenarios
 * help - documentation about the command
-* install - installs/upgrades package with dependencies
-* download - downloads the packages
-* uninstall - removes the packages
-* freeze - list of packages installed in requirements format
-* list - list of packages installed
+* search- Search specific packages in PyPi
 * show - displays information about the packages
+* list - list of packages installed
+* install - installs/upgrades package with dependencies
+* uninstall - removes the packages
+* upgrade - upgrade packages
+* download - downloads the packages
+* freeze - list of packages installed in requirements format
 * check - Verify installed packages have compatible dependencies
 
 ---
 
 # pip - examples
+* pip search pytorch
+* pip list
+* pip list -o (--outdated)
 * pip install requests
 * python -m pip install --upgrade pip
 * pip show requests
