@@ -138,11 +138,11 @@ f = print, f(1, 2, 3))
 * What will happen here?
     ```python
     def outer():
-    adders = []
-    for n in range(1, 4):
-        adders.append(lambda x: x + n)
-        
-    return adders
+        adders = []
+        for n in range(1, 4):
+            adders.append(lambda x: x + n)
+            
+        return adders
 
     lambda_adders = outer()
     print(lambda_adders)
