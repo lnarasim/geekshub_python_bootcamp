@@ -2,17 +2,19 @@
 
 # Python - Essentials (Level 3)
 
-## Closures
-* Closures [[slides](functions/closures.html)]
-
-## Decorators
-* Decorators - Simple and Easy [[slides](functions/decorators.html)]
-* Generators (WIP)
-
 ## Classes and Related
 * OOPS [[slides](classes_exceptions/oops.html)]
 * Classes [[slides](classes_exceptions/classes.html)]
 * Exceptions [[slides](classes_exceptions/exceptions.html)]
+
+## Closures
+* Closures [[slides](functions/closures.html)]
+
+## Generators
+* Generators (WIP)
+
+## Decorators
+* Decorators - Simple and Easy [[slides](functions/decorators.html)]
 * Class Decorators
 
 ## Others
