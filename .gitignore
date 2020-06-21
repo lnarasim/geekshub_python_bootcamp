@@ -2,3 +2,5 @@
 Untitled*.ipynb
 *.pyc
 *__pycache__
+.vscode/settings.json
+.vscode/settings.json
