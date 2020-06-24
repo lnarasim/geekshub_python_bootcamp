@@ -34,10 +34,18 @@ Read our [__Good Ways of Working__](good_ways_of_working.md)
     * Python - AI/ML Exposition (Specialization)
     * Python - Visualization (Specialization)
     * Python - Backend, Web Development (Specialization)
-
 2. __[Programming Puzzles](programming_puzzles.md)__ - These are puzzles that should be solved using few concepts in Python
 3. __[Tools Projects](tools_projects.md)__ - Develop a tool and this can span for a period of 2-3 weeks
 4. __Projects__ - Span across months and often done with fellow GeeksHub Geeks. The projects are not listed here and exclusive to Geeks
+
+## Python Questions and Intermediate Problems
+* [Python Questions to Reinforce Learning](python_questions.md)
+* [Python Intermediate Problems for Practice](python_intermediate_problems.md)
+* [Computer Science Basics Questions to Reinforce Learning](computer_science_basics_questions.md)
+
+## Mini-projects
+* [Analysis and Visualizations of Urban Accidents in India States](/geekshub_python_bootcamp/mini-projects/urban_accidents/Urban_accidents_India_Data_graphs.ipynb)
+
 
 # The Summary
 

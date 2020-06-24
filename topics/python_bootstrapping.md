@@ -48,14 +48,6 @@
 * Unit Testing
 * Writing Mocks
 
-## Python Questions and Intermediate Problems
-* [Python Questions to Reinforce Learning](python_questions.md)
-* [Python Intermediate Problems for Practice](python_intermediate_problems.md)
-* [Computer Science Basics Questions to Reinforce Learning](computer_science_basics_questions.md)
-
-## Mini-projects
-* [Analysis and Visualizations of Urban Accidents in India States](/geekshub_python_bootcamp/mini-projects/urban_accidents/Urban_accidents_India_Data_graphs.ipynb)
-
 ## Books
 * Operating System Concepts by Silberschatz, Galvin and Gagne
 * Learn Python Hard Way
